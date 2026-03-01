@@ -21,6 +21,57 @@
 
 ---
 
+## KEY STRATEGIC TAKEAWAYS
+
+1. **Ranking Layer Validated** — 6 ranking sections (driver, constructor, engine) all working. Architecture PASS.
+
+2. **Mercedes Engine Dominance** — 4-team advantage (Mercedes, McLaren, Aston, RB). Honda strong on RBR only. Ferrari thermal issues mounting.
+
+3. **Temperature Sensitivity Underestimated** — Cool track (-5°F) had 2x penalty than forecast. Refinement flagged: +50% multiplier for next build.
+
+4. **McLaren Momentum Building** — +18 pts/race avg (best last 3 races). Norris ↑ Rising trend. Closing gap to RBR but aero deficit (-0.7 sec) still real.
+
+5. **Ferrari Reliability Crisis** — Leclerc DNF (ERS failure R7), Sainz tire failure (R8). Thermal + reliability ↓. Structural pace gap (-1.2 sec vs RBR) compounds issues.
+
+---
+
+## FORECAST ACCURACY (Silverstone)
+
+| Metric | Forecast | Actual | Status |
+|--------|----------|--------|--------|
+| Win Probability (Verstappen) | 52% | P1 ✓ | ✅ CORRECT |
+| Podium Top 3 | Verstappen, Norris, Piastri | P1, P2, P3 ✓ | ✅ 3/3 CORRECT |
+| Hamilton Podium | 22% | P4 ✗ | ⚠️ MISS (temp sensitivity) |
+| Betting Edge | PASS all markets | No losses | ✅ DISCIPLINE |
+| Confidence Calibration | HIGH: 8/8 correct | — | ✅ 100% ACCURACY |
+
+---
+
+## ENGINE SUPPLIERS SUMMARY
+
+### Mercedes (Mercedes, McLaren, Aston Martin, RB)
+**Power Philosophy:** Maximum efficiency + reliability. Conservative deployment.  
+**Current Rank:** 1st (645 season points)  
+**Momentum:** ↑ Rising (+15 pts/race last 3 races)  
+**Key Strength:** ERS recovery efficiency (91% avg); widespread 4-team advantage  
+**Key Weakness:** Peak straight-line power (-0.4 sec vs Honda)
+
+### Honda (Red Bull Racing, RB)
+**Power Philosophy:** Peak power delivery + response. Aggressive deployment.  
+**Current Rank:** 2nd (451 season points)  
+**Momentum:** ↑ Rising (+12 pts/race)  
+**Key Strength:** Straight-line acceleration (+2 km/h top speed); DRS snap deployment (97% efficiency)  
+**Key Weakness:** Thermal management at extreme loads; cold-weather response lag
+
+### Ferrari (Ferrari, Haas, Alfa Romeo)
+**Power Philosophy:** Maximum straight-line speed. Design trades reliability for peak power.  
+**Current Rank:** 3rd (291 season points)  
+**Momentum:** ↓ Falling (+6 pts/race)  
+**Key Strength:** Straight-line speed competitive; qualifying power modes strong  
+**Key Weakness:** **Thermal management critical issue** (runs hot; limits deployment); cold-weather warm-up lag (5–6 laps); reliability ↓
+
+---
+
 ## PREVIOUS RACE PODIUM (Hungarian GP, July 7)
 
 | Pos | Driver | Team | Engine | Gap | Tire Strategy |
@@ -55,57 +106,6 @@
 | 1 | Red Bull Racing | Honda | 406 | 12 | 5 | +15 pts/race |
 | 2 | McLaren | Mercedes | 340 | 8 | 1 | +18 pts/race ↑ |
 | 3 | Mercedes | Mercedes | 301 | 7 | 0 | +12 pts/race |
-
----
-
-## ENGINE SUPPLIERS SUMMARY
-
-### Mercedes (Mercedes, McLaren, Aston Martin, RB)
-**Power Philosophy:** Maximum efficiency + reliability. Conservative deployment.  
-**Current Rank:** 1st (645 season points)  
-**Momentum:** ↑ Rising (+15 pts/race last 3 races)  
-**Key Strength:** ERS recovery efficiency (91% avg); widespread 4-team advantage  
-**Key Weakness:** Peak straight-line power (-0.4 sec vs Honda)
-
-### Honda (Red Bull Racing, RB)
-**Power Philosophy:** Peak power delivery + response. Aggressive deployment.  
-**Current Rank:** 2nd (451 season points)  
-**Momentum:** ↑ Rising (+12 pts/race)  
-**Key Strength:** Straight-line acceleration (+2 km/h top speed); DRS snap deployment (97% efficiency)  
-**Key Weakness:** Thermal management at extreme loads; cold-weather response lag
-
-### Ferrari (Ferrari, Haas, Alfa Romeo)
-**Power Philosophy:** Maximum straight-line speed. Design trades reliability for peak power.  
-**Current Rank:** 3rd (291 season points)  
-**Momentum:** ↓ Falling (+6 pts/race)  
-**Key Strength:** Straight-line speed competitive; qualifying power modes strong  
-**Key Weakness:** **Thermal management critical issue** (runs hot; limits deployment); cold-weather warm-up lag (5–6 laps); reliability ↓
-
----
-
-## KEY STRATEGIC TAKEAWAYS
-
-1. **Ranking Layer Validated** — 6 ranking sections (driver, constructor, engine) all working. Architecture PASS.
-
-2. **Mercedes Engine Dominance** — 4-team advantage (Mercedes, McLaren, Aston, RB). Honda strong on RBR only. Ferrari thermal issues mounting.
-
-3. **Temperature Sensitivity Underestimated** — Cool track (-5°F) had 2x penalty than forecast. Refinement flagged: +50% multiplier for next build.
-
-4. **McLaren Momentum Building** — +18 pts/race avg (best last 3 races). Norris ↑ Rising trend. Closing gap to RBR but aero deficit (-0.7 sec) still real.
-
-5. **Ferrari Reliability Crisis** — Leclerc DNF (ERS failure R7), Sainz tire failure (R8). Thermal + reliability ↓. Structural pace gap (-1.2 sec vs RBR) compounds issues.
-
----
-
-## FORECAST ACCURACY (Silverstone)
-
-| Metric | Forecast | Actual | Status |
-|--------|----------|--------|--------|
-| Win Probability (Verstappen) | 52% | P1 ✓ | ✅ CORRECT |
-| Podium Top 3 | Verstappen, Norris, Piastri | P1, P2, P3 ✓ | ✅ 3/3 CORRECT |
-| Hamilton Podium | 22% | P4 ✗ | ⚠️ MISS (temp sensitivity) |
-| Betting Edge | PASS all markets | No losses | ✅ DISCIPLINE |
-| Confidence Calibration | HIGH: 8/8 correct | — | ✅ 100% ACCURACY |
 
 ---
 
