@@ -1,7 +1,7 @@
 # F1 STRATEGIC INTELLIGENCE — RANKINGS
 ## Round 8: Silverstone 2025 (Structured Data Layer)
 
-**Tabs:** [ [Overview](/viewer.html?file=/round-08-silverstone-2025-demo/overview.md) ] [ [Rankings](/viewer.html?file=/round-08-silverstone-2025-demo/rankings.md) ] [ [Engine View](/viewer.html?file=/round-08-silverstone-2025-demo/engines.md) ] [ [Strategy](/viewer.html?file=/round-08-silverstone-2025-demo/strategy.md) ]
+**Tabs:** [ [Overview](/viewer.html?file=/round-08-silverstone-2025-demo/overview.md) ] [ [Rankings](/viewer.html?file=/round-08-silverstone-2025-demo/rankings.md) ] [ [Engine View](/viewer.html?file=/round-08-silverstone-2025-demo/engines.md) ] [ [Strategy](/viewer.html?file=/round-08-silverstone-2025-demo/strategy.md) ] [ [Optimization](/viewer.html?file=/round-08-silverstone-2025-demo/optimization.md) ]
 
 ---
 
@@ -102,4 +102,4 @@
 
 ---
 
-**Tabs:** [ [Overview](/viewer.html?file=/round-08-silverstone-2025-demo/overview.md) ] [ [Rankings](/viewer.html?file=/round-08-silverstone-2025-demo/rankings.md) ] [ [Engine View](/viewer.html?file=/round-08-silverstone-2025-demo/engines.md) ] [ [Strategy](/viewer.html?file=/round-08-silverstone-2025-demo/strategy.md) ]
+**Tabs:** [ [Overview](/viewer.html?file=/round-08-silverstone-2025-demo/overview.md) ] [ [Rankings](/viewer.html?file=/round-08-silverstone-2025-demo/rankings.md) ] [ [Engine View](/viewer.html?file=/round-08-silverstone-2025-demo/engines.md) ] [ [Strategy](/viewer.html?file=/round-08-silverstone-2025-demo/strategy.md) ] [ [Optimization](/viewer.html?file=/round-08-silverstone-2025-demo/optimization.md) ]
