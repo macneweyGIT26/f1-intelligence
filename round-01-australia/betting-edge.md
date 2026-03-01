@@ -1,7 +1,7 @@
 # F1 STRATEGIC INTELLIGENCE — BETTING EDGE
 ## Round 1: Australia 2026 (Odds + Hedge Tracking)
 
-**Tabs:** [ [Overview](/viewer.html?file=/round-01-australia/overview.md) ] [ [Rankings](/viewer.html?file=/round-01-australia/rankings.md) ] [ [Engine View](/viewer.html?file=/round-01-australia/engines.md) ] [ [Strategy](/viewer.html?file=/round-01-australia/strategy.md) ] [ [Betting Edge](/viewer.html?file=/round-01-australia/betting-edge.md) ]
+**Tabs:** [ [Halo (Summary)](/halo.html) ] [ [Overview](/viewer.html?file=/round-01-australia/overview.md) ] [ [Rankings](/viewer.html?file=/round-01-australia/rankings.md) ] [ [Engine View](/viewer.html?file=/round-01-australia/engines.md) ] [ [Strategy](/viewer.html?file=/round-01-australia/strategy.md) ] [ [Betting Edge](/viewer.html?file=/round-01-australia/betting-edge.md) ]
 
 ---
 
@@ -234,4 +234,4 @@ Once you confirm, I'll:
 
 ---
 
-**Tabs:** [ [Overview](/viewer.html?file=/round-01-australia/overview.md) ] [ [Rankings](/viewer.html?file=/round-01-australia/rankings.md) ] [ [Engine View](/viewer.html?file=/round-01-australia/engines.md) ] [ [Strategy](/viewer.html?file=/round-01-australia/strategy.md) ] [ [Betting Edge](/viewer.html?file=/round-01-australia/betting-edge.md) ]
+**Tabs:** [ [Halo (Summary)](/halo.html) ] [ [Overview](/viewer.html?file=/round-01-australia/overview.md) ] [ [Rankings](/viewer.html?file=/round-01-australia/rankings.md) ] [ [Engine View](/viewer.html?file=/round-01-australia/engines.md) ] [ [Strategy](/viewer.html?file=/round-01-australia/strategy.md) ] [ [Betting Edge](/viewer.html?file=/round-01-australia/betting-edge.md) ]

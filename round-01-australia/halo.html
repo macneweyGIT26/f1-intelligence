@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1 Strategist — Australia 2026 Round 1</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0a0e27;
+            color: #e0e0e0;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            border-bottom: 2px solid #ff1801;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        
+        h1 {
+            color: #ff1801;
+            font-size: 28px;
+            margin-bottom: 5px;
+        }
+        
+        .subtitle {
+            color: #999;
+            font-size: 14px;
+        }
+        
+        .tab-nav {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 30px;
+            border-bottom: 1px solid #333;
+            padding-bottom: 15px;
+            flex-wrap: wrap;
+        }
+        
+        .tab-nav a {
+            color: #999;
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 600;
+            padding: 8px 12px;
+            border-radius: 4px;
+            transition: all 0.3s;
+        }
+        
+        .tab-nav a:hover {
+            color: #ffb81c;
+            background: rgba(255, 184, 28, 0.1);
+        }
+        
+        .tab-nav a.active {
+            color: #ff1801;
+            border-bottom: 2px solid #ff1801;
+            padding-bottom: 6px;
+        }
+        
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .card {
+            background: #1a1f3a;
+            border: 1px solid #333;
+            border-radius: 8px;
+            padding: 20px;
+            transition: border-color 0.3s;
+        }
+        
+        .card:hover {
+            border-color: #ff1801;
+        }
+        
+        .card h2 {
+            color: #ff1801;
+            font-size: 16px;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 13px;
+        }
+        
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #333;
+        }
+        
+        th {
+            background: #0f1428;
+            color: #ff1801;
+            font-weight: 600;
+        }
+        
+        tr:last-child td {
+            border-bottom: none;
+        }
+        
+        .board-60 {
+            background: linear-gradient(135deg, #1a1f3a 0%, #0f1428 100%);
+            border-left: 4px solid #ff1801;
+            padding: 20px;
+            margin-bottom: 30px;
+            border-radius: 4px;
+        }
+        
+        .board-60 h3 {
+            color: #ff1801;
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+        
+        .board-60 p {
+            margin-bottom: 10px;
+            color: #ccc;
+            font-size: 14px;
+            line-height: 1.8;
+        }
+        
+        .scenario {
+            background: #0f1428;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 15px;
+            border-left: 3px solid #ffb81c;
+        }
+        
+        .scenario h4 {
+            color: #ffb81c;
+            margin-bottom: 8px;
+            font-size: 13px;
+        }
+        
+        .scenario p {
+            color: #999;
+            font-size: 13px;
+            margin-bottom: 8px;
+        }
+        
+        .bet {
+            background: #1a2435;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 10px;
+            border-left: 3px solid #00d747;
+        }
+        
+        .bet h4 {
+            color: #00d747;
+            margin-bottom: 5px;
+        }
+        
+        .bet-info {
+            display: flex;
+            justify-content: space-between;
+            font-size: 12px;
+            color: #999;
+            margin-top: 8px;
+        }
+        
+        .pass {
+            background: #2a1a1a;
+            padding: 12px;
+            border-radius: 4px;
+            margin-bottom: 8px;
+            border-left: 3px solid #ff5555;
+        }
+        
+        .pass h4 {
+            color: #ff5555;
+            margin-bottom: 4px;
+            font-size: 12px;
+        }
+        
+        .edge {
+            font-weight: 600;
+            padding: 4px 8px;
+            border-radius: 3px;
+            font-size: 12px;
+        }
+        
+        .edge-positive {
+            background: rgba(0, 215, 71, 0.2);
+            color: #00d747;
+        }
+        
+        .edge-negative {
+            background: rgba(255, 85, 85, 0.2);
+            color: #ff5555;
+        }
+        
+        .strategy-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 15px;
+        }
+        
+        .strategy-box {
+            background: #0f1428;
+            padding: 15px;
+            border-radius: 4px;
+            border-left: 3px solid #1e88e5;
+        }
+        
+        .strategy-box h4 {
+            color: #1e88e5;
+            margin-bottom: 10px;
+            font-size: 13px;
+        }
+        
+        .strategy-box p {
+            font-size: 12px;
+            color: #999;
+            margin-bottom: 8px;
+        }
+        
+        .stat {
+            display: flex;
+            justify-content: space-between;
+            font-size: 12px;
+            margin-bottom: 6px;
+        }
+        
+        .stat-label {
+            color: #666;
+        }
+        
+        .stat-value {
+            color: #ffb81c;
+            font-weight: 600;
+        }
+        
+        .full-width {
+            grid-column: 1 / -1;
+        }
+        
+        .timestamp {
+            color: #666;
+            font-size: 12px;
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid #333;
+        }
+        
+        .info-box {
+            background: rgba(30, 136, 229, 0.1);
+            border-left: 3px solid #1e88e5;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            font-size: 13px;
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏁 F1 STRATEGIST SYSTEM</h1>
+            <p class="subtitle">Round 1: Australia 2026 (Albert Park) | Initialization Mode</p>
+        </header>
+        
+        <!-- TAB NAVIGATION -->
+        <div class="tab-nav">
+            <a href="halo.html" class="active">Halo (Summary)</a>
+            <a href="/viewer.html?file=/round-01-australia/overview.md">Overview</a>
+            <a href="/viewer.html?file=/round-01-australia/rankings.md">Rankings</a>
+            <a href="/viewer.html?file=/round-01-australia/engines.md">Engine View</a>
+            <a href="/viewer.html?file=/round-01-australia/strategy.md">Strategy</a>
+            <a href="/viewer.html?file=/round-01-australia/betting-edge.md">Betting Edge</a>
+        </div>
+        
+        <!-- INITIALIZATION NOTE -->
+        <div class="info-box">
+            <strong>Round 1 Initialization Mode:</strong> New regulation cycle (2026 cars + engines). All predictions default to LOW confidence. Testing data informational only (not used for trends). 2025 data referenced only for circuit geometry + strategy archetypes. Cadillac (new team) highly unpredictable — no historical baseline.
+        </div>
+        
+        <!-- BOARD 60 -->
+        <div class="board-60">
+            <h3>BOARD 60 — 60-Second Boardroom Summary</h3>
+            <p>
+                <strong>Australia 2026 wide-open Round 1.</strong> New regulations (2026 cars + engines) eliminate predictability; testing data limited and strategically uncertain. 
+                Mercedes engine partnership (4 teams) suggests broad advantage, but execution unknown. 
+                Red Bull power unit change (Honda → new spec) adds uncertainty. 
+                Albert Park is high-speed aero-dominant (70% of lap); teams with strong aero + engine integration likely favored. 
+                <strong>Strategy: Undercut-friendly circuit</strong> (pit window Laps 18–24, ~22–24 sec pit loss). 
+                Rain probability LOW (Melbourne summer); weather risk minimal. 
+                <strong>Value thesis: Avoid favorites Monday;</strong> market will sharpen post-qualifying (Friday). 
+                Post-quali odds likely more informative than pre-testing prices. 
+                <strong>Conviction: MEDIUM.</strong> Data quality low; discipline over activity recommended. Wait for Friday qualifying before committing major stakes.
+            </p>
+        </div>
+        
+        <!-- KEY INSIGHTS -->
+        <div class="card full-width">
+            <h2>Round 1 Key Insights</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Factor</th>
+                        <th>Assessment</th>
+                        <th>Confidence</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>New Regulation Impact</strong></td>
+                        <td>Unknown — testing data limited &amp; strategic uncertainty high</td>
+                        <td>VERY LOW</td>
+                        <td>Wait for quali confirmation</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Mercedes Engine Advantage</strong></td>
+                        <td>4-team partnership (Merc, McLaren, Aston, Williams) suggests broad power</td>
+                        <td>LOW</td>
+                        <td>Monitor qualifying pace</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Red Bull Engine Transition</strong></td>
+                        <td>Honda swap + new 2026 spec = execution risk first race</td>
+                        <td>LOW</td>
+                        <td>FP1 telemetry critical</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Cadillac New Team</strong></td>
+                        <td>Zero prior F1 data; first-race learning curve severe</td>
+                        <td>VERY LOW</td>
+                        <td>Avoid betting; monitor DNF risk</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Weather Risk</strong></td>
+                        <td>Melbourne summer (warm, low rain); stable forecast</td>
+                        <td>MEDIUM</td>
+                        <td>Pit strategy stable; no weather pivots expected</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Pit Strategy</strong></td>
+                        <td>Undercut window viable (Laps 18–24, ~22–24 sec pit loss)</td>
+                        <td>MEDIUM</td>
+                        <td>Plan undercut as baseline strategy</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <!-- STRATEGY ARCHETYPES -->
+        <div class="card full-width">
+            <h2>Strategy Archetypes — Albert Park Application</h2>
+            <div class="strategy-grid">
+                <div class="strategy-box">
+                    <h4>Undercut (Pit 1, Laps 18–24)</h4>
+                    <p>Optimal for: Mercedes-powered teams, RBR</p>
+                    <div class="stat">
+                        <span class="stat-label">Pit Loss:</span>
+                        <span class="stat-value">22–24 sec</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-label">Success Rate (2025 ref):</span>
+                        <span class="stat-value">65%</span>
+                    </div>
+                    <p style="margin-top: 10px; color: #999;">Tight window but viable. Albert Park pace delta typically 0.8–1.2 sec/lap allows undercut gains.</p>
+                </div>
+                
+                <div class="strategy-box">
+                    <h4>Overcut (Pit 2, Laps 38–42)</h4>
+                    <p>Risky at Albert Park; undercut preferred</p>
+                    <div class="stat">
+                        <span class="stat-label">Pit Loss:</span>
+                        <span class="stat-value">22–24 sec</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-label">Success Rate (2025 ref):</span>
+                        <span class="stat-value">35%</span>
+                    </div>
+                    <p style="margin-top: 10px; color: #999;">Requires pace delta >1.5 sec/lap post-first-pit. Difficult circuit for overcut. Low probability.</p>
+                </div>
+                
+                <div class="strategy-box">
+                    <h4>Safety Car / VSC</h4>
+                    <p>Probability: LOW (Melbourne summer, stable)</p>
+                    <div class="stat">
+                        <span class="stat-label">Expected Likelihood:</span>
+                        <span class="stat-value">&lt;10%</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-label">If triggered:</span>
+                        <span class="stat-value">Mid-field shakeup</span>
+                    </div>
+                    <p style="margin-top: 10px; color: #999;">If SC hits Lap 25–30, undercut window disrupted. Teams with flexibility (RBR, Merc) gain advantage.</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- RACE SIMULATION -->
+        <div class="card full-width">
+            <h2>Race Simulation — Baseline Scenario (No SC/VSC, 80% probability)</h2>
+            
+            <div class="scenario">
+                <h4>Laps 1–17: Consolidation Phase</h4>
+                <p>Grid position determines pace hierarchy. Mercedes-powered teams (advantage unknown, estimate +0.3–0.5 sec) battle RBR for track position. Ferrari struggles early (thermal warm-up + new engine integration risk).</p>
+            </div>
+            
+            <div class="scenario">
+                <h4>Lap 18–24: First Pit Window (Undercut Zone)</h4>
+                <p>Leader pits first (Lap 20–22). Undercut advantage ~0.4–0.6 sec per team principle. Followers pit 1–2 laps later. Order shuffles on fresh rubber. Front-runner advantage maintained if pit gap exploited correctly.</p>
+            </div>
+            
+            <div class="scenario">
+                <h4>Lap 25–40: Mid-Race Stabilization</h4>
+                <p>Undercut winner consolidates. Midfield fights for positions 4–8. Tire deg typical (0.05–0.08 sec/lap on used mediums). No major chaos expected absent safety car.</p>
+            </div>
+            
+            <div class="scenario">
+                <h4>Lap 41–End: Final Stint</h4>
+                <p>Tire management trumps pace. Leaders manage gap to P2; midfield hunts position upgrades. Result typically follows grid + undercut execution + tire strategy quality.</p>
+            </div>
+            
+            <p style="margin-top: 20px; color: #ffb81c;"><strong>Expected Result Structure:</strong> Mercedes-powered team likely P1 | RBR or fast Ferrari/McLaren P2 | Filling in based on undercut execution</p>
+        </div>
+        
+        <!-- TESTING DATA STATUS -->
+        <div class="card full-width">
+            <h2>Testing Data Status (Pre-Season, Barcelona)</h2>
+            <div class="info-box">
+                <strong>Testing Snapshot:</strong> Pre-season testing (Barcelona, Feb 26–28, 2026) provides limited data. Teams sandbagging performance, running strategic programs, prioritizing reliability over pure pace. 
+                <strong>Use testing data informational only</strong> — do NOT project as race-pace ranking. 
+                Testing typically 2–4 sec off race pace; fuel loads, fuel quality, ambient temps all differ. 
+                <strong>Qualifying Friday + FP3 Saturday will be far more informative for race predictions.</strong>
+            </div>
+        </div>
+        
+        <!-- BETTING APPROACH -->
+        <div class="card full-width">
+            <h2>Betting Approach — Round 1</h2>
+            
+            <div class="scenario">
+                <h4>Monday Odds (Pre-Qualifying) vs Friday Odds (Post-Qualifying)</h4>
+                <p><strong>Monday:</strong> Market efficiency low (new regs, testing data weak). Odds overvalue favorites; long prices on mid-grid inflated.</p>
+                <p><strong>Friday post-quali:</strong> Grid position = reality check. Odds sharpen dramatically. Edge more reliable post-quali.</p>
+                <p style="margin-top: 10px; color: #ffb81c;"><strong>Recommendation:</strong> PASS Monday bets. Wait for Friday post-qualifying (13:00 EST) to place main bets. Edge will be clearer.</p>
+            </div>
+            
+            <div class="pass">
+                <h4>❌ AVOID: Monday Favorites</h4>
+                <p>Without qualifying confirmation, favorites are speculative. Hold and reassess Friday post-quali.</p>
+            </div>
+            
+            <div class="bet">
+                <h4>✅ CONSIDER: Friday Post-Quali Bets</h4>
+                <p>Once grid is confirmed, edges become visible. Execute then with higher conviction.</p>
+            </div>
+        </div>
+        
+        <!-- SUMMARY -->
+        <div class="card full-width">
+            <h2>Summary & Execution Plan</h2>
+            <div class="stat">
+                <span class="stat-label">Round 1 Confidence:</span>
+                <span class="stat-value">MEDIUM (low data, disciplined approach)</span>
+            </div>
+            <div class="stat">
+                <span class="stat-label">Betting Strategy:</span>
+                <span class="stat-value">DEFER to Friday post-quali (Grid = Reality)</span>
+            </div>
+            <div class="stat">
+                <span class="stat-label">Key Dates:</span>
+                <span class="stat-value">Fri 3/14 Quali → Fri post-quali bets → Sun 3/16 Race</span>
+            </div>
+            <div class="stat">
+                <span class="stat-label">Primary Edge Watch:</span>
+                <span class="stat-value">Undercut execution (Laps 18–24) + Qualifying confirmation</span>
+            </div>
+            <p style="margin-top: 20px; color: #999; font-size: 13px;">
+                <strong>Execution Note:</strong> This is Round 1 of a new regulation cycle. Data quality is intentionally LOW. 
+                Confidence defaults are VERY LOW on all predictions until multiple signal sources align (testing + quali + FP3). 
+                <strong>Discipline over activity:</strong> Wait for qualifying to sharpen odds before committing capital. 
+                Testing data alone is insufficient for high-conviction betting. Friday post-qualifying is the execution trigger.
+            </p>
+        </div>
+        
+        <div class="timestamp">
+            Report Generated: March 3, 2026 (Pre-Qualifying) | Australia 2026 Round 1 | 
+            <span style="color: #ffb81c;">F1 Strategist System v2.0 (Initialization Mode)</span>
+        </div>
+    </div>
+</body>
+</html>

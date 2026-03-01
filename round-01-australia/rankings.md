@@ -1,7 +1,7 @@
 # F1 STRATEGIC INTELLIGENCE — RANKINGS
 ## Round 1: Australia 2026 (Structured Data Layer)
 
-**Tabs:** [ [Overview](/viewer.html?file=/round-01-australia/overview.md) ] [ [Rankings](/viewer.html?file=/round-01-australia/rankings.md) ] [ [Engine View](/viewer.html?file=/round-01-australia/engines.md) ] [ [Strategy](/viewer.html?file=/round-01-australia/strategy.md) ] [ [Betting Edge](/viewer.html?file=/round-01-australia/betting-edge.md) ]
+**Tabs:** [ [Halo (Summary)](/halo.html) ] [ [Overview](/viewer.html?file=/round-01-australia/overview.md) ] [ [Rankings](/viewer.html?file=/round-01-australia/rankings.md) ] [ [Engine View](/viewer.html?file=/round-01-australia/engines.md) ] [ [Strategy](/viewer.html?file=/round-01-australia/strategy.md) ] [ [Betting Edge](/viewer.html?file=/round-01-australia/betting-edge.md) ]
 
 ---
 
@@ -53,4 +53,4 @@ Ferrari, Red Bull Racing, Mercedes, McLaren, Aston Martin, Williams, Alpine, Haa
 
 ---
 
-**Tabs:** [ [Overview](/viewer.html?file=/round-01-australia/overview.md) ] [ [Rankings](/viewer.html?file=/round-01-australia/rankings.md) ] [ [Engine View](/viewer.html?file=/round-01-australia/engines.md) ] [ [Strategy](/viewer.html?file=/round-01-australia/strategy.md) ] [ [Betting Edge](/viewer.html?file=/round-01-australia/betting-edge.md) ]
+**Tabs:** [ [Halo (Summary)](/halo.html) ] [ [Overview](/viewer.html?file=/round-01-australia/overview.md) ] [ [Rankings](/viewer.html?file=/round-01-australia/rankings.md) ] [ [Engine View](/viewer.html?file=/round-01-australia/engines.md) ] [ [Strategy](/viewer.html?file=/round-01-australia/strategy.md) ] [ [Betting Edge](/viewer.html?file=/round-01-australia/betting-edge.md) ]
