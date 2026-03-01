@@ -33,7 +33,8 @@
 
 | Team | High-Speed Aero | Low-Speed Grip | Tire Management | Straight-Line Power | Track Fit | Confidence | Notes |
 |---|---|---|---|---|---|---|---|
-| TBD | TBD | TBD | TBD | TBD | TBD | VERY LOW | Awaiting testing + qualifying data |
+| TBD (Existing Teams) | TBD | TBD | TBD | TBD | TBD | VERY LOW | Awaiting testing + qualifying data |
+| Cadillac (NEW) | UNKNOWN | UNKNOWN | UNKNOWN | UNKNOWN | UNKNOWN | **VERY LOW** | No prior data; new team first race; expect setup struggles |
 
 ---
 

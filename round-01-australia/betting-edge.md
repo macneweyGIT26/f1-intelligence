@@ -11,6 +11,17 @@
 
 **Confidence Default:** LOW (Round 1, new regulations)
 
+**2026 GRID (11 Teams):**
+Ferrari, Red Bull Racing, Mercedes, McLaren, Aston Martin, Williams, Alpine, Haas, Racing Bulls, Audi, Cadillac (NEW TEAM — NO PRIOR DATA)
+
+**Engine Suppliers:**
+- Mercedes: Mercedes, McLaren, Aston Martin, Williams
+- Honda: Red Bull Racing, Racing Bulls
+- Ferrari: Ferrari, Haas
+- Alpine: Alpine
+- Audi: Audi
+- Cadillac Engine: TBD
+
 ---
 
 ## TUESDAY ENTRY SECTION (Odds Posted)
@@ -49,6 +60,8 @@
   - Recommendation: CLOSE 1 of 2 tickets (if 2 active) OR CLOSE BOTH (if 1 ticket) to protect break-even
 - **Other teams qualify outside Top 15?**
   - Recommendation: PASS or hold (unless line compressed >40%)
+- **Cadillac positions in any market?**
+  - Recommendation: PASS or CLOSE BOTH (new team, very high unpredictability; Round 1 learning curve severe)
 - **Line Compression 40–50%+ (odds shortened significantly)?**
   - Recommendation: Close 1 ticket to lock partial profit
 

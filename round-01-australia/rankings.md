@@ -37,11 +37,15 @@
 
 | Rank | Engine Supplier | Assigned Teams | 2026 Spec Status | Notes |
 |------|-----------------|-----------------|-----------------|-------|
-| TBD | Mercedes | TBD | TBD | Awaiting testing confirmation |
-| TBD | Honda | TBD | TBD | Awaiting testing confirmation |
-| TBD | Ferrari | TBD | TBD | Awaiting testing confirmation |
-| TBD | Alpine/Renault | TBD | TBD | Awaiting testing confirmation |
-| TBD | Audi | TBD | TBD | Entry status TBD |
+| TBD | Mercedes | [Mercedes, McLaren, Aston Martin, Williams, TBD] | TBD | Awaiting testing confirmation |
+| TBD | Honda | [Red Bull Racing, Racing Bulls, TBD] | TBD | Awaiting testing confirmation |
+| TBD | Ferrari | [Ferrari, Haas, TBD] | TBD | Awaiting testing confirmation |
+| TBD | Alpine/Renault | [Alpine, TBD] | TBD | Awaiting testing confirmation |
+| TBD | Audi | [Audi, TBD] | TBD | Entry status TBD |
+| TBD | Cadillac | [Cadillac (NEW TEAM)] | NO PRIOR DATA | NEW ENTRANT — Confidence VERY LOW; no historical reference |
+
+**2026 Grid (11 Teams):**
+Ferrari, Red Bull Racing, Mercedes, McLaren, Aston Martin, Williams, Alpine, Haas, Racing Bulls, Audi, Cadillac
 
 ---
 

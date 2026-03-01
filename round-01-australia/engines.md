@@ -15,11 +15,12 @@
 
 | Engine Supplier | Assigned Teams | Specification Changes from 2025 | Expected Strengths | Expected Weaknesses | Confidence |
 |---|---|---|---|---|---|
-| Mercedes | TBD | TBD | TBD | TBD | LOW |
-| Honda | TBD | TBD | TBD | TBD | LOW |
-| Ferrari | TBD | TBD | TBD | TBD | LOW |
-| Alpine/Renault | TBD | TBD | TBD | TBD | LOW |
-| Audi | TBD | Entry status TBD | TBD | TBD | LOW |
+| Mercedes | Mercedes, McLaren, Aston Martin, Williams, [TBD] | TBD | TBD | TBD | LOW |
+| Honda | Red Bull Racing, Racing Bulls, [TBD] | TBD | TBD | TBD | LOW |
+| Ferrari | Ferrari, Haas, [TBD] | TBD | TBD | TBD | LOW |
+| Alpine/Renault | Alpine, [TBD] | TBD | TBD | TBD | LOW |
+| Audi | Audi, [TBD] | Entry status TBD | TBD | TBD | LOW |
+| **Cadillac (NEW)** | **Cadillac (NEW TEAM)** | **NO PRIOR DATA** | **UNKNOWN** | **UNKNOWN** | **VERY LOW** |
 
 ---
 
@@ -63,6 +64,16 @@
 **Audi (Entry Status TBD):**
 - **Entry Confirmation:** Pending (regulatory approval)
 - **Status:** TBD
+
+**Cadillac (NEW TEAM — NO PRIOR DATA):**
+- **Entry Status:** NEW ENTRANT (2026 debut)
+- **Engine Supplier:** TBD (awaiting confirmation)
+- **Prior F1 History:** NONE — Confidence VERY LOW
+- **Team Principal/Lead Driver:** TBD
+- **Car Development:** TBD (all new; no baseline from prior years)
+- **Strategy Outlook:** Unpredictable; new team learning curve typical first season (DNFs, setup struggles, pit crew inexperience)
+- **Albert Park Suitability:** UNKNOWN (no reference data)
+- **Confidence:** VERY LOW — Treat all Cadillac predictions as exploratory only
 
 ---
 

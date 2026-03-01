@@ -68,6 +68,19 @@
 - Alpine/Renault: [Teams TBD]
 - Audi: [Entry status TBD]
 
+**2026 GRID (11 Teams):**
+1. Ferrari
+2. Red Bull Racing
+3. Mercedes
+4. McLaren
+5. Aston Martin
+6. Williams
+7. Alpine
+8. Haas
+9. Racing Bulls
+10. Audi (formerly Kick Sauber)
+11. Cadillac (NEW TEAM — NO PRIOR DATA)
+
 ---
 
 ## KEY STRATEGIC CONSIDERATIONS (Round 1)
