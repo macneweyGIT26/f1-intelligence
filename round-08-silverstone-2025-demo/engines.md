@@ -39,28 +39,28 @@
 
 ## PERFORMANCE CHARACTERISTICS SUMMARY
 
-### Mercedes
+### Mercedes (Mercedes, McLaren, Aston Martin, RB)
 - **Straight-Line Speed Delta:** -0.4 sec vs Honda (reference engine)
 - **ERS Efficiency:** 91% (best-in-class consistency)
 - **Thermal Management:** Excellent (rare overheating issues)
 - **Cold-Weather Response:** Moderate lag (5°F below baseline = -0.05 sec/°F penalty)
 - **Overall Strength:** Widespread reliability + efficiency across 4 teams
 
-### Honda
+### Honda (Red Bull Racing, RB)
 - **Straight-Line Speed Delta:** +0.0 sec (reference)
 - **ERS Efficiency:** 97% (sharp deployment; excellent snap response)
 - **Thermal Management:** Good (manages loads well despite aggressive deployment)
 - **Cold-Weather Response:** Slower warm-up (needs 2–3 more laps than Mercedes)
 - **Overall Strength:** Peak power + reliability on RBR; adequate on RB
 
-### Ferrari
+### Ferrari (Ferrari, Haas, Alfa Romeo)
 - **Straight-Line Speed Delta:** -0.2 sec vs Honda
 - **ERS Efficiency:** 85% (constrained by thermal management)
 - **Thermal Management:** **CRITICAL ISSUE** (runs hot; limits deployment duration in races)
 - **Cold-Weather Response:** **MAJOR ISSUE** (5–6 laps to peak vs Mercedes 3 laps)
 - **Overall Strength:** Peak power in qualifying only; race performance undermined by thermal constraints
 
-### Renault
+### Renault (Alpine)
 - **Straight-Line Speed Delta:** -0.6 sec vs Honda (rear-grid spec)
 - **ERS Efficiency:** 75% (budget-constrained design)
 - **Thermal Management:** Basic (overheats on high-load circuits)
