@@ -1,7 +1,7 @@
 # F1 STRATEGIC INTELLIGENCE — STRATEGY
 ## Round 8: Silverstone 2025 (Technical Deep-Dive Layer)
 
-**Tabs:** [ Overview ] [ Rankings ] [ Engine View ] [ Strategy ]
+**Tabs:** [ [Overview](/viewer.html?file=/round-08-silverstone-2025-demo/overview.md) ] [ [Rankings](/viewer.html?file=/round-08-silverstone-2025-demo/rankings.md) ] [ [Engine View](/viewer.html?file=/round-08-silverstone-2025-demo/engines.md) ] [ [Strategy](/viewer.html?file=/round-08-silverstone-2025-demo/strategy.md) ]
 
 ---
 
@@ -166,4 +166,6 @@
 
 **Status:** ✅ VALIDATION COMPLETE — Architecture PASS, Refinements identified, Confidence calibration validated.
 
-**Tabs:** [ Overview ] [ Rankings ] [ Engine View ] [ Strategy ]
+---
+
+**Tabs:** [ [Overview](/viewer.html?file=/round-08-silverstone-2025-demo/overview.md) ] [ [Rankings](/viewer.html?file=/round-08-silverstone-2025-demo/rankings.md) ] [ [Engine View](/viewer.html?file=/round-08-silverstone-2025-demo/engines.md) ] [ [Strategy](/viewer.html?file=/round-08-silverstone-2025-demo/strategy.md) ]
