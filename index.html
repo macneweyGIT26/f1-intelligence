@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1 Strategic Intelligence System</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #eee;
+            line-height: 1.6;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+        
+        h1 {
+            font-size: 3.5em;
+            margin-bottom: 10px;
+            background: linear-gradient(120deg, #ff6b6b, #ffd93d, #6bcf7f);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .subtitle {
+            font-size: 1.3em;
+            color: #aaa;
+            margin-bottom: 30px;
+        }
+        
+        .status-badge {
+            display: inline-block;
+            background: #27ae60;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            margin-bottom: 40px;
+        }
+        
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 60px;
+        }
+        
+        .card {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 30px;
+            backdrop-filter: blur(10px);
+            transition: all 0.3s ease;
+        }
+        
+        .card:hover {
+            background: rgba(255, 255, 255, 0.08);
+            border-color: rgba(255, 255, 255, 0.2);
+            transform: translateY(-5px);
+        }
+        
+        .card h2 {
+            margin-bottom: 15px;
+            font-size: 1.5em;
+            color: #ffd93d;
+        }
+        
+        .card p {
+            color: #bbb;
+            margin-bottom: 20px;
+            font-size: 0.95em;
+        }
+        
+        .card a {
+            display: inline-block;
+            color: #ff6b6b;
+            text-decoration: none;
+            font-weight: 600;
+            padding: 8px 16px;
+            border: 2px solid #ff6b6b;
+            border-radius: 6px;
+            transition: all 0.3s;
+        }
+        
+        .card a:hover {
+            background: #ff6b6b;
+            color: white;
+        }
+        
+        .section-title {
+            font-size: 2em;
+            margin: 40px 0 30px 0;
+            color: #ffd93d;
+            border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+            padding-bottom: 15px;
+        }
+        
+        .file-list {
+            background: rgba(0, 0, 0, 0.3);
+            border-left: 4px solid #ff6b6b;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .file-list li {
+            list-style: none;
+            padding: 10px 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .file-list li:last-child {
+            border-bottom: none;
+        }
+        
+        .file-list a {
+            color: #6bcf7f;
+            text-decoration: none;
+            font-family: monospace;
+            font-size: 0.95em;
+        }
+        
+        .file-list a:hover {
+            color: #ffd93d;
+            text-decoration: underline;
+        }
+        
+        .footer {
+            text-align: center;
+            color: #666;
+            margin-top: 60px;
+            padding-top: 40px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏁 F1 Strategic Intelligence System</h1>
+            <p class="subtitle">Ranking-Layer Architecture • Validation Phase</p>
+            <span class="status-badge">✅ Validation Complete</span>
+        </header>
+        
+        <div class="grid">
+            <div class="card">
+                <h2>🏗️ Architecture Blueprint</h2>
+                <p>13-section layered design with ranking mode validation. Engine supplier formula finalized.</p>
+                <a href="/frameworks/ARCHITECTURE.md">View Blueprint</a>
+            </div>
+            
+            <div class="card">
+                <h2>🧪 Silverstone 2025 Demo</h2>
+                <p>Full rebuild with ranking layer validation. Stress test results: Architecture PASS.</p>
+                <a href="/round-08-silverstone-2025-demo/REBUILD_v2_RANKING_LAYER.md">View Demo</a>
+            </div>
+            
+            <div class="card">
+                <h2>🚀 Production Template</h2>
+                <p>Australia 2026 Round 1 template. Ready for live data injection.</p>
+                <a href="/reports/2026_round_01.md">View Template</a>
+            </div>
+            
+            <div class="card">
+                <h2>⚙️ System Prompt</h2>
+                <p>Core F1 Intelligence role definition, data sources, modes, and operational checklist.</p>
+                <a href="/skill_f1_intelligence.md">View Prompt</a>
+            </div>
+            
+            <div class="card">
+                <h2>📊 Data Sources</h2>
+                <p>API endpoints, sportsbook integration, data integrity rules for production deployment.</p>
+                <a href="/data_sources.md">View Sources</a>
+            </div>
+            
+            <div class="card">
+                <h2>📝 Original Demo</h2>
+                <p>Initial Silverstone validation build (reference). Superseded by REBUILD_v2.</p>
+                <a href="/reports/2025_silverstone_demo.md">View Original</a>
+            </div>
+        </div>
+        
+        <h2 class="section-title">📂 Project Structure</h2>
+        <ul class="file-list">
+            <li><a href="/frameworks/">/frameworks/ — Architecture + Core Systems</a></li>
+            <li><a href="/round-08-silverstone-2025-demo/">/round-08-silverstone-2025-demo/ — Demo Validation Build</a></li>
+            <li><a href="/reports/">/reports/ — Production Templates</a></li>
+            <li><a href="/data_sources.md">data_sources.md — API Configuration</a></li>
+            <li><a href="/skill_f1_intelligence.md">skill_f1_intelligence.md — System Prompt</a></li>
+        </ul>
+        
+        <h2 class="section-title">✅ Validation Results</h2>
+        <div class="file-list">
+            <li><strong>Architecture Status:</strong> ✅ PASS (6 ranking sections validated)</li>
+            <li><strong>Engine Supplier Formula:</strong> ✅ VALIDATED (total points, reliability %, momentum all correct)</li>
+            <li><strong>Data Integrity:</strong> ✅ PASS (no >2 lap gaps; FIA sources verified)</li>
+            <li><strong>13-Section Format:</strong> ✅ STABLE (ranking layer → strategy layer coherent flow)</li>
+            <li><strong>Confidence Calibration:</strong> ✅ HIGH claims 8/8 correct (100% accuracy)</li>
+            <li><strong>Temperature Sensitivity Refinement:</strong> 🔧 FLAGGED (+50% multiplier needed for next build)</li>
+        </div>
+        
+        <h2 class="section-title">🎯 Next Steps</h2>
+        <div class="file-list">
+            <li><strong>Phase 2 Production Lock:</strong> Migrate to `/round-01-australia/`, `/frameworks/`, `/live/` when ready</li>
+            <li><strong>Australia 2026 Launch:</strong> March 2 system deployment (FP2 data injection Mar 6)</li>
+            <li><strong>Monday Report:</strong> March 9 (before 9:30 AM EST market open) — Championship snapshot, forecasts, betting value</li>
+        </div>
+        
+        <footer>
+            <p>F1 Strategic Intelligence System | Built for High-Speed Validation</p>
+            <p style="font-size: 0.85em; margin-top: 10px;">Last Updated: March 1, 2026 | Status: Validation Phase Complete</p>
+        </footer>
+    </div>
+</body>
+</html>
