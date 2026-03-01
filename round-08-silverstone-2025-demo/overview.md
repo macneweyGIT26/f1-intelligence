@@ -56,21 +56,21 @@
 
 ## ENGINE SUPPLIERS SUMMARY
 
-### Mercedes
+### Mercedes (Mercedes, McLaren, Aston Martin, RB)
 **Power Philosophy:** Maximum efficiency + reliability. Conservative deployment.  
 **Current Rank:** 1st (645 season points)  
 **Momentum:** ↑ Rising (+15 pts/race last 3 races)  
 **Key Strength:** ERS recovery efficiency (91% avg); widespread 4-team advantage  
 **Key Weakness:** Peak straight-line power (-0.4 sec vs Honda)
 
-### Honda
+### Honda (Red Bull Racing, RB)
 **Power Philosophy:** Peak power delivery + response. Aggressive deployment.  
 **Current Rank:** 2nd (451 season points)  
 **Momentum:** ↑ Rising (+12 pts/race)  
 **Key Strength:** Straight-line acceleration (+2 km/h top speed); DRS snap deployment (97% efficiency)  
 **Key Weakness:** Thermal management at extreme loads; cold-weather response lag
 
-### Ferrari
+### Ferrari (Ferrari, Haas, Alfa Romeo)
 **Power Philosophy:** Maximum straight-line speed. Design trades reliability for peak power.  
 **Current Rank:** 3rd (291 season points)  
 **Momentum:** ↓ Falling (+6 pts/race)  
