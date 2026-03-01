@@ -1,6 +1,10 @@
 # F1 STRATEGIC INTELLIGENCE — ENGINE VIEW
 ## Round 8: Silverstone 2025 (Power Unit Intelligence Layer)
 
+**Tabs:** [ Overview ] [ Rankings ] [ Engine View ] [ Strategy ]
+
+---
+
 **Purpose:** Dedicated engine supplier analysis. Power-unit competitive lens.
 
 ---

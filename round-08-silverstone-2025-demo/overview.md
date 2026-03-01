@@ -1,6 +1,10 @@
 # F1 STRATEGIC INTELLIGENCE — OVERVIEW
 ## Round 8: Silverstone 2025 (Executive Summary)
 
+**Tabs:** [ Overview ] [ Rankings ] [ Engine View ] [ Strategy ]
+
+---
+
 **Circuit:** Albert Park British Grand Prix (High-speed aero platform)  
 **Race Date:** July 20, 2025  
 **Status:** ✅ Validation Build Complete

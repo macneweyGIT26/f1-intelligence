@@ -1,6 +1,10 @@
 # F1 STRATEGIC INTELLIGENCE — RANKINGS
 ## Round 8: Silverstone 2025 (Structured Data Layer)
 
+**Tabs:** [ Overview ] [ Rankings ] [ Engine View ] [ Strategy ]
+
+---
+
 **Purpose:** Pure ranking tables. No narrative. Data verification only.
 
 ---

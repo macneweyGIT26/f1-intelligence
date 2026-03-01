@@ -1,6 +1,10 @@
 # F1 STRATEGIC INTELLIGENCE — STRATEGY
 ## Round 8: Silverstone 2025 (Technical Deep-Dive Layer)
 
+**Tabs:** [ Overview ] [ Rankings ] [ Engine View ] [ Strategy ]
+
+---
+
 **Purpose:** Deep technical analysis. Strategist brain mode.
 
 ---
