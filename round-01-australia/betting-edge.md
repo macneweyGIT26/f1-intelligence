@@ -1,3 +1,11 @@
+## INPUT LOG
+Screenshots received: ❌  
+Last update timestamp: — (When updated)  
+Screenshots received: ✅  
+Last update timestamp: 2026-03-__ : ET
+
+---
+
 # F1 STRATEGIC INTELLIGENCE — BETTING EDGE
 ## Round 1: Australia 2026 (Odds + Hedge Tracking)
 
