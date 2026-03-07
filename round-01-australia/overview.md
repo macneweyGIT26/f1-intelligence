@@ -16,6 +16,8 @@
 
 **New Regulation Cycle:** 2026 brings new car designs and engine specifications. Pre-season testing data is limited and subject to strategic uncertainty (teams hiding/understating performance).
 
+**📋 READ FIRST:** [2026 Regulations Brief](/file=/2026_REGULATIONS_BRIEF.md) — Complete overview of major regulation changes (Active Aero replaces DRS, downforce reduction -15–30%, Albert Park straight mode zones, overtake detection system). Essential context for all analysis below.
+
 **Data Sources This Round:**
 - Testing data (Pre-Season Testing Snapshot — Informational Only)
 - 2025 circuit geometry + strategy archetypes (reference only; NOT used for competitiveness prediction)

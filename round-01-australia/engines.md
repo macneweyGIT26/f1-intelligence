@@ -35,6 +35,50 @@
 
 ---
 
+## POWER UNIT CLIPPING ANALYSIS (Electrical Efficiency — Australia 2026)
+
+**What is clipping?** Electrical power limitation in hybrid ERS. When the PU produces more power than the electrical system can safely deliver/manage, the system clips (limits) output on straights. Result: measurable speed loss.
+
+**Data Source:** Telemetry analysis (Qualifying/Race Simulation)  
+**Confidence:** MEDIUM (direct measurement; limited by small sample size)
+
+| Engine Supplier | PU Theoretical Max (T8) | Clipping Speed (Actual) | Power Loss | Delta | Efficiency Rank |
+|---|---|---|---|---|---|
+| **Ferrari** | 325 km/h (202 mph) | 291 km/h (181 mph) | -34 km/h (-21 mph) | **BEST** ✅ | **1st** |
+| **Mercedes** | 327 km/h (203 mph) | 274 km/h (170 mph) | -53 km/h (-33 mph) | -19 km/h vs Ferrari | 2nd |
+| **RBPT (Honda)** | 325 km/h (202 mph) | 267 km/h (166 mph) | -58 km/h (-36 mph) | -24 km/h vs Ferrari | 3rd |
+| **Audi** | 325 km/h (202 mph) | 267 km/h (166 mph) | -58 km/h (-36 mph) | -24 km/h vs Ferrari | 3rd |
+
+**Strategic Implications:**
+
+1. **Ferrari (Haas + Ferrari) — WINNING:**
+   - Smallest clipping penalty = most efficient electrical system (capacitor, MGU, thermal management)
+   - Haas gets Ferrari's best-in-grid power unit; straight-line speed advantage on every straight
+   - Qualifying + DRS zones: inherent pace advantage competitors cannot match without better electrical design
+   - **Advantage:** ~21 mph speed delta on straights vs RBPT/Audi
+
+2. **Mercedes — COMPETITIVE BUT GAPPED:**
+   - -19 km/h (12 mph) slower than Ferrari on straights
+   - Electrical system closer to Ferrari than RBPT
+   - Question: Chassis cooling limitations preventing full PU deployment?
+   - **Status:** Development priority for Mercedes technical team
+
+3. **RBPT (Red Bull) + Audi — SAME WALL:**
+   - **Critical issue:** Both hitting identical clipping ceiling (-58 km/h / -36 mph)
+   - Suggests systemic problem: either PU design limitation OR both teams' chassis/cooling cannot support full output
+   - Red Bull cannot fully exploit turbo advantage on straights
+   - Audi entry hampered from day 1 (electrical development lag)
+   - **Priority:** RBPT must address clipping; likely chassis/thermal engineering challenge
+
+**Impact on Race:**
+- **Qualifying:** Soft compound pace advantage (Ferrari) compounded by electrical efficiency → potential pole lock
+- **Race:** Straight-line vulnerability for RBPT/Audi on DRS straights and run-out zones
+- **Strategy consideration:** RBPT may need earlier/longer stints to compensate for pace loss; Mercedes bridging the gap via tire/strategy
+
+**Reliability Note:** Clipping patterns may shift as teams adjust ERS management strategies during free practice and race weekend.
+
+---
+
 ## ENGINE SUPPLIER STRATEGY (2026 Season Outlook)
 
 **Mercedes (TBD Teams):**
