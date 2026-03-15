@@ -65,7 +65,7 @@
 ### Tier 3 — Midfield
 **Alpine** — Gasly P7 is a standout. Car seems to have found genuine pace at Shanghai.
 
-**Red Bull** — Verstappen P8 (+0.938s) is alarming. RB22 not working at this circuit. Both drivers outside top 7. Crisis mode continues from Australia.
+**Red Bull** — Verstappen P8 (+0.938s) is concerning. RB22 not working at this circuit. Both drivers outside top 7. Early-season form needs monitoring — only Round 2 of new regulations.
 
 ### Tier 4 — Backmarkers
 **Haas** — Bearman P10 in Q3 is decent. Ocon P13 disappointing.
@@ -85,8 +85,8 @@ Youngest pole-sitter in F1 history. At 19 years old, he's outqualified his more 
 ### 2. Mercedes Dominance
 Three-for-three on session-topping performances. The W17 is clearly the best car. Question for the race: can anyone challenge them on strategy, or is this a procession?
 
-### 3. Red Bull's Decline
-Verstappen P8 — nearly a full second off pole. This is not a one-off; Australia showed similar struggles. The RB22 seems to lack fundamental downforce in the new regulations. Verstappen's championship defense is in serious trouble.
+### 3. Red Bull Early Struggles
+Verstappen P8 — nearly a full second off pole. Two rounds into new regulations, the RB22 hasn't found its pace window yet. Too early to call it a crisis — regulation cycles produce wild swings early on — but the gap to Mercedes is significant and needs addressing before midseason.
 
 ### 4. The Sprint Data
 Russell won the sprint comfortably. Leclerc showed decent race pace to finish P2 (+0.6s). Ferrari's tyre management was questionable — wear visible in the final stint. McLaren quiet in the sprint (Norris P4).
