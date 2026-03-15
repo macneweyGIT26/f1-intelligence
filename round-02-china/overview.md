@@ -1,7 +1,7 @@
 # F1 STRATEGIC INTELLIGENCE — OVERVIEW
 ## Round 2: China 2026 (Sprint Format — Shanghai International Circuit)
 
-**Tabs:** [ [Overview](/viewer.html?file=/round-02-china/overview.md) ] [ [Rankings](/viewer.html?file=/round-02-china/rankings.md) ] [ [Strategy](/viewer.html?file=/round-02-china/strategy.md) ] [ [Betting Edge](/viewer.html?file=/round-02-china/betting-edge.md) ]
+**Tabs:** [ [Overview](/viewer.html?file=/round-02-china/overview.md) ] [ [Rankings](/viewer.html?file=/round-02-china/rankings.md) ] [ [Engine View](/viewer.html?file=/round-02-china/engines.md) ] [ [Strategy](/viewer.html?file=/round-02-china/strategy.md) ] [ [Betting Edge](/viewer.html?file=/round-02-china/betting-edge.md) ]
 
 ---
 
