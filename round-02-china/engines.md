@@ -13,9 +13,10 @@
 
 | Engine Supplier | Teams | Best Quali (China) | Sprint Result | Trend |
 |---|---|---|---|---|
-| **Mercedes PU** | Mercedes, McLaren, Aston Martin, Williams | P1 (Antonelli 1:32.064) | P1 (Russell) | 🔥 Dominant |
+| **Mercedes PU** | Mercedes, McLaren, Williams | P1 (Antonelli 1:32.064) | P1 (Russell) | 🔥 Dominant |
 | **Ferrari PU** | Ferrari, Haas | P3 (Hamilton +0.351s) | P2 (Leclerc) | ↗️ Competitive |
-| **Honda PU** | Red Bull, Racing Bulls | P8 (Verstappen +0.938s) | P9 (Verstappen) | 🔻 Struggling |
+| **Red Bull Powertrains** | Red Bull, Racing Bulls | P8 (Verstappen +0.938s) | P9 (Verstappen) | 🔻 Struggling |
+| **Honda PU** | Aston Martin | P19 (Alonso) | — | 🔻 Back of grid |
 | **Alpine/Renault PU** | Alpine | P7 (Gasly +0.809s) | — | ↗️ Improved |
 | **Audi PU** | Audi | P11 (Hulkenberg) | — | → Midfield |
 | **Cadillac PU** | Cadillac | P20 (Bottas) | — | 🔻 Bottom |
@@ -25,21 +26,27 @@
 ## KEY ENGINE OBSERVATIONS
 
 ### Mercedes Power Unit — Clear Leader
-- Powers the top 2 qualifiers (Antonelli, Russell) AND the bottom 4 (Sainz P17, Albon P18, Alonso P19, Stroll P21)
+- Powers the top 2 qualifiers (Antonelli, Russell) plus McLaren (P5/P6) and Williams (P17/P18)
 - Performance delta is chassis-driven, not PU-driven: W17 Mercedes chassis is the differentiator
-- McLaren (P5/P6) on same PU shows ~0.5s chassis gap to works team
-- Williams and Aston Martin on same PU are Q1 exits — severe chassis deficit
+- McLaren on same PU shows ~0.5s chassis gap to works team
+- Williams on same PU are Q1 exits — severe chassis deficit
 
 ### Ferrari Power Unit — Solid
 - Hamilton P3 and Leclerc P4 — consistent second-best package
 - Haas (Bearman P10, Ocon P13) showing midfield competitiveness on Ferrari PU
 - No reliability concerns through 2 rounds
 
-### Honda Power Unit — Concerning
-- Verstappen P8 (+0.938s) — worst qualifying gap to pole in recent memory
-- Both Red Bull cars outside top 7
-- Racing Bulls (Lawson P14, Lindblad P15) — midfield at best
-- Question: Is this chassis (RB22) or power unit deficit? Early evidence suggests chassis
+### Red Bull Powertrains — First Season as Independent Supplier
+- Verstappen P8 (+0.938s) — significant gap to front in first year of own PU
+- Both Red Bull cars outside top 7; Racing Bulls (Lawson P14, Lindblad P15) midfield
+- First season manufacturing their own power unit after Honda departure
+- Question: Is the deficit chassis (RB22) or PU? Too early to isolate
+
+### Honda Power Unit — New Partnership with Aston Martin
+- Now powering Aston Martin only (no longer Red Bull supplier)
+- Alonso P19, Stroll P21 — both Q1 exits
+- Hard to separate PU performance from Aston Martin's chassis struggles
+- Honda's reputation is strong but new team integration takes time
 
 ### Renault Power Unit — Surprise
 - Gasly P7 is a genuine step forward for Alpine
@@ -62,6 +69,7 @@
 |----------|---------------------|-------|
 | Mercedes | 0 | Russell Q3 issue was gearbox/mechanical, not PU |
 | Ferrari | 0 | Clean |
+| Red Bull Powertrains | 0 | Clean (first season) |
 | Honda | 0 | Clean |
 | Renault | 0 | Clean |
 | Audi | 0 | Clean |
