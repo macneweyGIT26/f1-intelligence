@@ -117,30 +117,33 @@ Russell won the sprint comfortably. Leclerc showed decent race pace to finish P2
 
 | Pos | Driver | Team | Gap | Stops | Strategy | Grid | Δ |
 |-----|--------|------|-----|-------|----------|------|---|
-| 1 | Kimi Antonelli | Mercedes | 1:33:15.607 | 1 | M→H | 1 | — |
-| 2 | George Russell | Mercedes | +5.515 | 1 | M→H | 2 | — |
-| 3 | Lewis Hamilton | Ferrari | +25.267 | 1 | M→H | 3 | — |
-| 4 | Charles Leclerc | Ferrari | +28.894 | 1 | M→H | 4 | — |
-| 5 | Oliver Bearman | Haas | +57.268 | 1 | M→H | 10 | +5 |
-| 6 | Pierre Gasly | Alpine | +59.647 | 1 | M→H | 7 | +1 |
-| 7 | Liam Lawson | Racing Bulls | +1:20.588 | 1 | M→H | 14 | +7 |
-| 8 | Isack Hadjar | Red Bull | +1:27.247 | 1 | S→H→H | 9 | +1 |
-| 9 | Carlos Sainz | Williams | +1 Lap | 1 | M→H | 17 | +8 |
-| 10 | Franco Colapinto | Alpine | +1 Lap | 1 | H→M | 12 | +2 |
-| 11 | Nico Hulkenberg | Audi | +1 Lap | 1 | M→H | 11 | — |
-| 12 | Arvid Lindblad | Racing Bulls | +1 Lap | 1 | H→M→S | 15 | +3 |
-| 13 | Valtteri Bottas | Cadillac | +1 Lap | 1 | M→H | 20 | +7 |
-| 14 | Esteban Ocon | Haas | +1 Lap | 2 | M→M→S | 13 | -1 |
-| 15 | Sergio Perez | Cadillac | +1 Lap | 1 | M→H | 22 | +7 |
-| — | Max Verstappen | Red Bull | DNF (Lap 45) | 2 | S→H | 8 | DNF |
-| — | Fernando Alonso | Aston Martin | DNF (Lap 32) | 2 | H→? | 19 | DNF |
-| — | Lance Stroll | Aston Martin | DNF (Lap 9) | 0 | H | 21 | DNF |
-| — | Oscar Piastri | McLaren | DNS | — | — | 5 | DNS |
-| — | Lando Norris | McLaren | DNS | — | — | 6 | DNS |
-| — | Gabriel Bortoleto | Audi | DNS | — | — | 16 | DNS |
-| — | Alex Albon | Williams | DNS | — | — | 18 | DNS |
+| Pos | Driver | Team | Gap | Stops | Strategy | Fastest Lap | Grid | Δ |
+|-----|--------|------|-----|-------|----------|------------|------|---|
+| 1 | Kimi Antonelli | Mercedes | 1:33:15.607 | 1 | M→H | 1:35.275 (L52) | 1 | — |
+| 2 | George Russell | Mercedes | +5.515 | 1 | M→H | 1:35.400 (L56) | 2 | — |
+| 3 | Lewis Hamilton | Ferrari | +25.267 | 1 | M→H | 1:36.092 (L55) | 3 | — |
+| 4 | Charles Leclerc | Ferrari | +28.894 | 1 | M→H | 1:36.011 (L56) | 4 | — |
+| 5 | Oliver Bearman | Haas | +57.268 | 1 | M→H | 1:36.429 (L56) | 10 | +5 |
+| 6 | Pierre Gasly | Alpine | +59.647 | 1 | M→H | 1:36.505 (L53) | 7 | +1 |
+| 7 | Liam Lawson | Racing Bulls | +1:20.588 | 1 | M→H | 1:37.096 (L56) | 14 | +7 |
+| 8 | Isack Hadjar | Red Bull | +1:27.247 | 2 | S→H→H | 1:37.311 (L46) | 9 | +1 |
+| 9 | Carlos Sainz | Williams | +1 Lap | 1 | M→H | 1:37.981 (L51) | 17 | +8 |
+| 10 | Franco Colapinto | Alpine | +1 Lap | 1 | H→M | 1:36.783 (L35) | 12 | +2 |
+| 11 | Nico Hulkenberg | Audi | +1 Lap | 1 | M→H | 1:36.180 (L38) | 11 | — |
+| 12 | Arvid Lindblad | Racing Bulls | +1 Lap | 1 | H→M | 1:36.099 (L46) | 15 | +3 |
+| 13 | Valtteri Bottas | Cadillac | +1 Lap | 1 | M→H | 1:38.393 (L55) | 20 | +7 |
+| 14 | Esteban Ocon | Haas | +1 Lap | 2 | H→M→S | 1:35.964 (L54) | 13 | -1 |
+| 15 | Sergio Perez | Cadillac | +1 Lap | 1 | M→H | 1:38.523 (L50) | 22 | +7 |
+| — | Max Verstappen | Red Bull | DNF (L45) | 2 | S→H | 1:37.046 (L39) | 8 | DNF |
+| — | Fernando Alonso | Aston Martin | DNF (L32) | 1 | H→? | 1:39.721 (L25) | 19 | DNF |
+| — | Lance Stroll | Aston Martin | DNF (L9) | 0 | H | 1:40.883 (L9) | 21 | DNF |
+| — | Oscar Piastri | McLaren | DNS | — | — | — | 5 | DNS |
+| — | Lando Norris | McLaren | DNS | — | — | — | 6 | DNS |
+| — | Gabriel Bortoleto | Audi | DNS | — | — | — | 16 | DNS |
+| — | Alex Albon | Williams | DNS | — | — | — | 18 | DNS |
 
-**Fastest Lap:** Antonelli 1:35.275 (Lap 52)
+**Fastest Lap:** Antonelli 1:35.275 (Lap 52)  
+**Conditions:** Air 14°C, Track 19°C, Wind 11.8 km/h
 
 ---
 

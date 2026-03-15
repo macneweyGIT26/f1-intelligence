@@ -80,12 +80,12 @@ Top 4 all ran identical M→H one-stop. No strategic variation at the front — 
 
 | Driver | S1 Compound | Pit Lap | S2 Compound | Result |
 |--------|-------------|---------|-------------|--------|
-| Antonelli | Medium | ~Lap 25 | Hard | P1 (+5.5s) |
-| Russell | Medium | ~Lap 25 | Hard | P2 |
-| Hamilton | Medium | ~Lap 25 | Hard | P3 |
-| Leclerc | Medium | ~Lap 25 | Hard | P4 |
-| Bearman | Medium | ~Lap 28 | Hard | P5 (+5 places) |
-| Gasly | Medium | ~Lap 26 | Hard | P6 |
+| Antonelli | Medium | ~Lap 15-17 | Hard | P1 (+5.5s) |
+| Russell | Medium | ~Lap 15-17 | Hard | P2 |
+| Hamilton | Medium | ~Lap 15-17 | Hard | P3 |
+| Leclerc | Medium | ~Lap 15-17 | Hard | P4 |
+| Bearman | Medium | ~Lap 15-17 | Hard | P5 (+5 places) |
+| Gasly | Medium | ~Lap 15-17 | Hard | P6 |
 
 ### Alternative Strategies
 - **Hadjar (S→H→H, 3-stop):** Went aggressive on softs early, but needed two hard stints. Mean pace 98.22s — significantly slower than one-stoppers.
