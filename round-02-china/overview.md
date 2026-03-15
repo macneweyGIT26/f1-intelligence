@@ -9,7 +9,8 @@
 **Race Date:** March 16, 2026 (Sprint: March 15)  
 **Format:** Sprint Weekend (FP1 → Sprint Qualifying → Sprint → Qualifying → Race)  
 **Tyres:** C5 (Soft), C4 (Medium), C3 (Hard)  
-**Confidence:** MEDIUM-HIGH (2 rounds of 2026 data + full practice/sprint/quali)
+**Confidence:** MEDIUM-HIGH (2 rounds of 2026 data — full weekend complete)  
+**Status:** 🏁 RACE COMPLETE
 
 ---
 
@@ -20,6 +21,7 @@
 | FP1 (Fri) | Russell 1:32.741 | Mercedes dominant, +0.5s gap to field |
 | Sprint (Sat) | Russell P1, Leclerc P2, Hamilton P3 | Mercedes race pace confirmed |
 | Qualifying (Sat) | Antonelli P1 (1:32.064) | Youngest pole-sitter in F1 history |
+| **Race (Sun)** | **Antonelli P1, Russell P2, Hamilton P3** | **Mercedes 1-2, Antonelli maiden win. 3 DNF, 4 DNS.** |
 
 ---
 
@@ -109,5 +111,81 @@ Russell won the sprint comfortably. Leclerc showed decent race pace to finish P2
 
 ---
 
-*Race results will be added post-race.*
+---
+
+## RACE RESULTS
+
+| Pos | Driver | Team | Gap | Stops | Strategy | Grid | Δ |
+|-----|--------|------|-----|-------|----------|------|---|
+| 1 | Kimi Antonelli | Mercedes | 1:33:15.607 | 1 | M→H | 1 | — |
+| 2 | George Russell | Mercedes | +5.515 | 1 | M→H | 2 | — |
+| 3 | Lewis Hamilton | Ferrari | +25.267 | 1 | M→H | 3 | — |
+| 4 | Charles Leclerc | Ferrari | +28.894 | 1 | M→H | 4 | — |
+| 5 | Oliver Bearman | Haas | +57.268 | 1 | M→H | 10 | +5 |
+| 6 | Pierre Gasly | Alpine | +59.647 | 1 | M→H | 7 | +1 |
+| 7 | Liam Lawson | Racing Bulls | +1:20.588 | 1 | M→H | 14 | +7 |
+| 8 | Isack Hadjar | Red Bull | +1:27.247 | 1 | S→H→H | 9 | +1 |
+| 9 | Carlos Sainz | Williams | +1 Lap | 1 | M→H | 17 | +8 |
+| 10 | Franco Colapinto | Alpine | +1 Lap | 1 | H→M | 12 | +2 |
+| 11 | Nico Hulkenberg | Audi | +1 Lap | 1 | M→H | 11 | — |
+| 12 | Arvid Lindblad | Racing Bulls | +1 Lap | 1 | H→M→S | 15 | +3 |
+| 13 | Valtteri Bottas | Cadillac | +1 Lap | 1 | M→H | 20 | +7 |
+| 14 | Esteban Ocon | Haas | +1 Lap | 2 | M→M→S | 13 | -1 |
+| 15 | Sergio Perez | Cadillac | +1 Lap | 1 | M→H | 22 | +7 |
+| — | Max Verstappen | Red Bull | DNF (Lap 45) | 2 | S→H | 8 | DNF |
+| — | Fernando Alonso | Aston Martin | DNF (Lap 32) | 2 | H→? | 19 | DNF |
+| — | Lance Stroll | Aston Martin | DNF (Lap 9) | 0 | H | 21 | DNF |
+| — | Oscar Piastri | McLaren | DNS | — | — | 5 | DNS |
+| — | Lando Norris | McLaren | DNS | — | — | 6 | DNS |
+| — | Gabriel Bortoleto | Audi | DNS | — | — | 16 | DNS |
+| — | Alex Albon | Williams | DNS | — | — | 18 | DNS |
+
+**Fastest Lap:** Antonelli 1:35.275 (Lap 52)
+
+---
+
+## RACE PACE ANALYSIS (1-Stop Teams)
+
+| Rank | Team | Gap/Lap | Notes |
+|------|------|---------|-------|
+| 1 | **Mercedes** | Benchmark | "No Match" — dominant, mean lap 96.46s (ANT), 96.59s (RUS) |
+| 2 | **Ferrari** | +0.64s | "No-Man's Land" — clear 2nd but isolated. Worse tyre deg than Merc. |
+| 3 | **Alpine** | +1.32s | "Best of the Rest" — huge step forward. Both quicker than Hadjar's RBR. |
+| 4 | **Haas** | +1.43s | Strong midfield. Bearman P5 is the headline. |
+| 5 | **Racing Bulls** | +1.81s | Lawson P7 (+7 places) — best recovery drive. |
+| 6 | **Audi** | +1.83s | Close to Racing Bulls. Hulkenberg steady. |
+| 7 | **Williams** | +2.47s | Sainz rescued P9 from P17 start. |
+| 8 | **Cadillac** | +3.51s | Slow but finishes races. More than McLaren/RBR/Aston can say. |
+
+**Red Bull Powertrains:** Not classified in 1-stop pace (Verstappen DNF, Hadjar ran S-H-H 3-stop variant — mean 98.22s)
+**McLaren:** Both DNS — defending WCC/WDC winners now just 1 point ahead of Haas.
+**Aston Martin (Honda):** Both DNF — zero reliability through 2 rounds.
+
+---
+
+## POST-RACE KEY NARRATIVES
+
+### 1. Antonelli's Maiden Win
+Pole to flag, 5.5s winning margin, fastest lap. At 19, he's F1's second-youngest winner ever. Utterly dominant. Mercedes has its future nailed down.
+
+### 2. Mercedes Superiority is Structural
+Not just raw speed — their tyre management is leagues ahead. Race pace data shows "No Match" categorization. The PU advantage lets them run lower downforce while still being fastest; rivals must push harder in corners, destroying tyres. Political angle: Mercedes may detune the ICE in coming races to push rivals outside the ADUO development window.
+
+### 3. Ferrari — Best Chassis, Can't Match Mercedes PU
++0.64s/lap is a big gap but they're clear second. Much worse tyre degradation — they need more PU power to run higher downforce, which would improve tyre wear. Right now they're caught in a vicious cycle: less power → less downforce → more sliding → more tyre wear.
+
+### 4. Red Bull Powertrains: 2 Failures in 2 Races
+Hadjar DNF Australia (battery, lap 12). Verstappen DNF China (lap 45). First season as independent engine manufacturer is going badly. Both reliability AND pace are concerning.
+
+### 5. McLaren Catastrophe
+Both cars DNS. Defending WCC and WDC winners. Now just 1 point ahead of Haas in the constructors'. Whatever happened pre-race needs urgent investigation.
+
+### 6. Aston Martin-Honda: Zero Finishes in China
+Stroll DNF lap 9 (battery issue, caused Safety Car). Alonso DNF lap 32. New Honda partnership struggling badly.
+
+### 7. Season Will Hinge on Politics
+ICE/ERS power-split debates (clipping reduction), compression-ratio saga, and potential for teams to deliberately limit power to block rivals' concessions. Lobbying skill may matter as much as engineering this year.
+
+---
+
 *Next round: Japan GP, Suzuka — March 26-29, 2026*

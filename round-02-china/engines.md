@@ -60,13 +60,17 @@
 
 | Supplier | Failures (2 rounds) | Notes |
 |----------|---------------------|-------|
-| Mercedes | 0 | Russell Q3 issue was gearbox/mechanical, not PU. Powers 4 teams. |
+| Mercedes | 0 | Clean through 2 rounds. Powers 4 teams. |
 | Ferrari | 0 | Clean. Powers 3 teams (incl. Cadillac customer). |
-| Red Bull Powertrains | **1** | **Hadjar DNF Australia (Lap 12) — battery/PU failure. First season as manufacturer.** |
-| Honda | 0 | Clean. Powers Aston Martin only. |
-| Audi | 0 | Clean. Own PU, sole team. |
+| Red Bull Powertrains | **2** | **Hadjar DNF Australia (Lap 12, battery). Verstappen DNF China (Lap 45). Two failures in two races.** |
+| Honda | **2** | **Stroll DNF China (Lap 9, battery — triggered SC). Alonso DNF China (Lap 32). Both Aston Martins retired.** |
+| Audi | 0 | Clean. Bortoleto DNS China (not PU-related). |
 
-⚠️ Red Bull Powertrains is the only supplier with a PU-related retirement through 2 rounds. Hadjar qualified P3 in Australia but retired lap 12 with battery issues — a significant concern for their debut season as an independent engine manufacturer.
+⚠️ **Red Bull Powertrains: 2 PU-related retirements in 2 races.** Hadjar Australia (battery, lap 12) + Verstappen China (lap 45). Alarming pattern for debut season as independent manufacturer.
+
+⚠️ **Honda: Both Aston Martins retired in China.** Stroll lap 9 (battery issue, caused Safety Car) + Alonso lap 32. New partnership off to a rough start.
+
+📋 **McLaren (Mercedes PU): Both DNS in China** — Norris and Piastri failed to start. Not PU-related (pre-race issues). From WCC/WDC winners to just 1 point ahead of Haas after 2 rounds.
 
 ---
 

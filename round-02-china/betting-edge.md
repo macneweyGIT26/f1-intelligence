@@ -42,5 +42,29 @@
 
 ---
 
+---
+
+## POST-RACE REVIEW
+
+### Bet Outcomes
+| Bet Idea | Pre-Race | Actual Result | Verdict |
+|----------|----------|---------------|---------|
+| Leclerc sprint win +275 | CANCELLED (3/10) | Leclerc P2 sprint | ✅ Correct pass |
+| Russell race win | 6/10, MONITORING | Russell P2 (+5.5s) | ❌ Would have lost — Antonelli dominant |
+| Verstappen top 5 | 5/10, MONITORING | Verstappen DNF (lap 45) | ❌ Would have lost — RBPT failure |
+
+### Lessons Learned
+1. **Antonelli was the correct play.** Youngest pole, but he drove like a veteran — 5.5s margin, fastest lap. First-win conversion fear was overblown. When the car is THAT dominant, experience matters less.
+2. **Verstappen bets are toxic right now.** Two rounds, car is ~1s off pace, and now RBPT reliability is a second failure vector. Avoid until Red Bull shows consistent race finishes.
+3. **Mercedes race win at any price is the play.** 1-2 in both races, both sprint wins. The only question is which Mercedes driver, not whether Mercedes wins.
+4. **McLaren collapse creates midfield value.** Bearman P5 at 25/1+ type odds is the kind of play to watch. With McLaren DNS, Haas/Alpine have moved into "best of the rest" territory.
+
+### Forward-Looking (Japan GP, Suzuka)
+- Mercedes heavy favorite again. Market will price them accurately now.
+- Ferrari gap might close at a power circuit like Suzuka — watch FP1 data.
+- **Avoid:** Red Bull, McLaren (until they prove reliability), Aston Martin.
+- **Watch:** Bearman/Haas podium outsider if attrition continues, Gasly top 5.
+
+---
+
 *Internal analysis only. Not for public distribution.*
-*Odds should be checked against live markets before race start.*
