@@ -62,11 +62,11 @@
 |----------|---------------------|-------|
 | Mercedes | 0 | Russell Q3 issue was gearbox/mechanical, not PU. Powers 4 teams. |
 | Ferrari | 0 | Clean. Powers 3 teams (incl. Cadillac customer). |
-| Red Bull Powertrains | 0 | Clean. First season as independent manufacturer. |
+| Red Bull Powertrains | **1** | **Hadjar DNF Australia (Lap 12) — battery/PU failure. First season as manufacturer.** |
 | Honda | 0 | Clean. Powers Aston Martin only. |
 | Audi | 0 | Clean. Own PU, sole team. |
 
-No PU-related retirements or failures through 2 rounds. All suppliers reliable so far.
+⚠️ Red Bull Powertrains is the only supplier with a PU-related retirement through 2 rounds. Hadjar qualified P3 in Australia but retired lap 12 with battery issues — a significant concern for their debut season as an independent engine manufacturer.
 
 ---
 
