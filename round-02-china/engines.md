@@ -13,27 +13,28 @@
 
 | Engine Supplier | Teams | Best Quali (China) | Sprint Result | Trend |
 |---|---|---|---|---|
-| **Mercedes PU** | Mercedes, McLaren, Williams | P1 (Antonelli 1:32.064) | P1 (Russell) | 🔥 Dominant |
-| **Ferrari PU** | Ferrari, Haas | P3 (Hamilton +0.351s) | P2 (Leclerc) | ↗️ Competitive |
+| **Mercedes PU** | Mercedes, McLaren, Alpine, Williams | P1 (Antonelli 1:32.064) | P1 (Russell) | 🔥 Dominant |
+| **Ferrari PU** | Ferrari, Haas, Cadillac | P3 (Hamilton +0.351s) | P2 (Leclerc) | ↗️ Competitive |
 | **Red Bull Powertrains** | Red Bull, Racing Bulls | P8 (Verstappen +0.938s) | P9 (Verstappen) | 🔻 Struggling |
 | **Honda PU** | Aston Martin | P19 (Alonso) | — | 🔻 Back of grid |
-| **Alpine/Renault PU** | Alpine | P7 (Gasly +0.809s) | — | ↗️ Improved |
 | **Audi PU** | Audi | P11 (Hulkenberg) | — | → Midfield |
-| **Cadillac PU** | Cadillac | P20 (Bottas) | — | 🔻 Bottom |
 
 ---
 
 ## KEY ENGINE OBSERVATIONS
 
 ### Mercedes Power Unit — Clear Leader
-- Powers the top 2 qualifiers (Antonelli, Russell) plus McLaren (P5/P6) and Williams (P17/P18)
+- Powers 4 teams: Mercedes (P1/P2), McLaren (P5/P6), Alpine (P7/P12), Williams (P17/P18)
 - Performance delta is chassis-driven, not PU-driven: W17 Mercedes chassis is the differentiator
 - McLaren on same PU shows ~0.5s chassis gap to works team
+- Alpine's Gasly P7 breakout shows Mercedes PU advantage extends to midfield
 - Williams on same PU are Q1 exits — severe chassis deficit
 
 ### Ferrari Power Unit — Solid
+- Powers 3 teams: Ferrari (P3/P4), Haas (P10/P13), Cadillac (P20/P22)
 - Hamilton P3 and Leclerc P4 — consistent second-best package
 - Haas (Bearman P10, Ocon P13) showing midfield competitiveness on Ferrari PU
+- Cadillac (Bottas P20, Perez P22) — new entrant on Ferrari customer PU until GM builds own engine (2029)
 - No reliability concerns through 2 rounds
 
 ### Red Bull Powertrains — First Season as Independent Supplier
@@ -48,18 +49,10 @@
 - Hard to separate PU performance from Aston Martin's chassis struggles
 - Honda's reputation is strong but new team integration takes time
 
-### Renault Power Unit — Surprise
-- Gasly P7 is a genuine step forward for Alpine
-- Colapinto P12 also reasonable
-- Could be circuit-specific — Shanghai may suit their package
-
 ### Audi Power Unit — Developing
 - Hulkenberg missed Q3 by 0.002s — agonizing
 - Bortoleto P16 — gap between drivers suggests car is on the limit
-
-### Cadillac Power Unit — Year Zero
-- Bottas P20, Perez P22 (2.767s off pole)
-- Expected as a brand-new entrant — reliability is the priority
+- Only team manufacturing its own PU without prior F1 engine heritage
 
 ---
 
@@ -67,13 +60,11 @@
 
 | Supplier | Failures (2 rounds) | Notes |
 |----------|---------------------|-------|
-| Mercedes | 0 | Russell Q3 issue was gearbox/mechanical, not PU |
-| Ferrari | 0 | Clean |
-| Red Bull Powertrains | 0 | Clean (first season) |
-| Honda | 0 | Clean |
-| Renault | 0 | Clean |
-| Audi | 0 | Clean |
-| Cadillac | 0 | Clean |
+| Mercedes | 0 | Russell Q3 issue was gearbox/mechanical, not PU. Powers 4 teams. |
+| Ferrari | 0 | Clean. Powers 3 teams (incl. Cadillac customer). |
+| Red Bull Powertrains | 0 | Clean. First season as independent manufacturer. |
+| Honda | 0 | Clean. Powers Aston Martin only. |
+| Audi | 0 | Clean. Own PU, sole team. |
 
 No PU-related retirements or failures through 2 rounds. All suppliers reliable so far.
 
