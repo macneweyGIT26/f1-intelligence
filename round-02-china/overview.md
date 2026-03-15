@@ -25,122 +25,32 @@
 
 ---
 
-## QUALIFYING GRID
-
-| Pos | Driver | Team | Gap |
-|-----|--------|------|-----|
-| 1 | Kimi Antonelli | Mercedes | 1:32.064 |
-| 2 | George Russell | Mercedes | +0.222s |
-| 3 | Lewis Hamilton | Ferrari | +0.351s |
-| 4 | Charles Leclerc | Ferrari | +0.364s |
-| 5 | Oscar Piastri | McLaren | +0.486s |
-| 6 | Lando Norris | McLaren | +0.544s |
-| 7 | Pierre Gasly | Alpine | +0.809s |
-| 8 | Max Verstappen | Red Bull | +0.938s |
-| 9 | Isack Hadjar | Red Bull | +1.057s |
-| 10 | Ollie Bearman | Haas | +1.228s |
-| 11 | Nico Hulkenberg | Audi | Q2 |
-| 12 | Franco Colapinto | Alpine | Q2 |
-| 13 | Esteban Ocon | Haas | Q2 |
-| 14 | Liam Lawson | Racing Bulls | Q2 |
-| 15 | Arvid Lindblad | Racing Bulls | Q2 |
-| 16 | Gabriel Bortoleto | Audi | Q2 |
-| 17 | Carlos Sainz | Williams | Q1 |
-| 18 | Alex Albon | Williams | Q1 |
-| 19 | Fernando Alonso | Aston Martin | Q1 |
-| 20 | Valtteri Bottas | Cadillac | Q1 |
-| 21 | Lance Stroll | Aston Martin | Q1 |
-| 22 | Sergio Perez | Cadillac | Q1 |
-
----
-
-## POWER RANKINGS (Post-Qualifying)
-
-### Tier 1 — Clear Pace Advantage
-**Mercedes** — Dominant across all sessions. W17 is the benchmark car through 2 rounds. Antonelli's growth curve is steep — FP1 P5 → Sprint P5 → Pole. Russell consistent elite performer (Sprint winner, Q2 issues but still P2).
-
-### Tier 2 — Competitive but Gap Exists
-**Ferrari** — Consistent row 2 contenders (~0.35s off Mercedes). Hamilton outqualifying Leclerc. Race pace in sprint looked better than single-lap deficit suggests. Tyre wear remains a concern (sprint data showed degradation in final stint).
-
-**McLaren** — Locked out row 3 (Piastri P5, Norris P6). Solid but not threatening the top 4. ~0.5s deficit to pole is a concern for race pace ambitions.
-
-### Tier 3 — Midfield
-**Alpine** — Gasly P7 is a standout. Car seems to have found genuine pace at Shanghai.
-
-**Red Bull** — Verstappen P8 (+0.938s) is concerning. RB22 not working at this circuit. Both drivers outside top 7. Early-season form needs monitoring — only Round 2 of new regulations.
-
-### Tier 4 — Backmarkers
-**Haas** — Bearman P10 in Q3 is decent. Ocon P13 disappointing.
-**Audi** — Hulkenberg missed Q3 by 0.002s. Painful.
-**Racing Bulls** — Lawson P14, Lindblad P15. Quiet weekend.
-**Williams** — Both out in Q1. Sainz P17 is disastrous for a driver of his caliber.
-**Aston Martin** — Alonso P19, Stroll P21. Car is not competitive.
-**Cadillac** — Bottas P20, Perez P22 (2.767s off). Bottom of the grid.
-
----
-
-## KEY NARRATIVES
-
-### 1. Antonelli's Arrival
-Youngest pole-sitter in F1 history. At 19 years old, he's outqualified his more experienced teammate in a session where Russell had car problems. The talent is undeniable. Mercedes has its future locked in.
-
-### 2. Mercedes Dominance
-Three-for-three on session-topping performances. The W17 is clearly the best car. Question for the race: can anyone challenge them on strategy, or is this a procession?
-
-### 3. Red Bull Early Struggles
-Verstappen P8 — nearly a full second off pole. Two rounds into new regulations, the RB22 hasn't found its pace window yet. Too early to call it a crisis — regulation cycles produce wild swings early on — but the gap to Mercedes is significant and needs addressing before midseason.
-
-### 4. The Sprint Data
-Russell won the sprint comfortably. Leclerc showed decent race pace to finish P2 (+0.6s). Ferrari's tyre management was questionable — wear visible in the final stint. McLaren quiet in the sprint (Norris P4).
-
----
-
-## RACE PREVIEW (Sun Mar 16, 3:00 AM EDT)
-
-**Expected Strategy:**
-- Front-runners likely C4 (Medium) → C3 (Hard), or C5 (Soft) start with early pit
-- Shanghai rewards track position — overtaking difficult despite 2 active aero zones
-- Pit window: laps 18-25 for a one-stop
-- Weather: Clear, no rain expected
-
-**What to Watch:**
-1. Can Antonelli convert pole to first race win?
-2. Ferrari race pace vs qualifying deficit — can they pressure Mercedes?
-3. Verstappen's recovery from P8 — how high can he climb?
-4. Gasly holding P7 — or will Red Bull/McLaren push through?
-
----
-
----
-
 ## RACE RESULTS
 
-| Pos | Driver | Team | Gap | Stops | Strategy | Grid | Δ |
-|-----|--------|------|-----|-------|----------|------|---|
-| Pos | Driver | Team | Gap | Stops | Strategy | Fastest Lap | Grid | Δ |
-|-----|--------|------|-----|-------|----------|------------|------|---|
-| 1 | Kimi Antonelli | Mercedes | 1:33:15.607 | 1 | M→H | 1:35.275 (L52) | 1 | — |
-| 2 | George Russell | Mercedes | +5.515 | 1 | M→H | 1:35.400 (L56) | 2 | — |
-| 3 | Lewis Hamilton | Ferrari | +25.267 | 1 | M→H | 1:36.092 (L55) | 3 | — |
-| 4 | Charles Leclerc | Ferrari | +28.894 | 1 | M→H | 1:36.011 (L56) | 4 | — |
-| 5 | Oliver Bearman | Haas | +57.268 | 1 | M→H | 1:36.429 (L56) | 10 | +5 |
-| 6 | Pierre Gasly | Alpine | +59.647 | 1 | M→H | 1:36.505 (L53) | 7 | +1 |
-| 7 | Liam Lawson | Racing Bulls | +1:20.588 | 1 | M→H | 1:37.096 (L56) | 14 | +7 |
-| 8 | Isack Hadjar | Red Bull | +1:27.247 | 2 | S→H→H | 1:37.311 (L46) | 9 | +1 |
-| 9 | Carlos Sainz | Williams | +1 Lap | 1 | M→H | 1:37.981 (L51) | 17 | +8 |
-| 10 | Franco Colapinto | Alpine | +1 Lap | 1 | H→M | 1:36.783 (L35) | 12 | +2 |
-| 11 | Nico Hulkenberg | Audi | +1 Lap | 1 | M→H | 1:36.180 (L38) | 11 | — |
-| 12 | Arvid Lindblad | Racing Bulls | +1 Lap | 1 | H→M | 1:36.099 (L46) | 15 | +3 |
-| 13 | Valtteri Bottas | Cadillac | +1 Lap | 1 | M→H | 1:38.393 (L55) | 20 | +7 |
-| 14 | Esteban Ocon | Haas | +1 Lap | 2 | H→M→S | 1:35.964 (L54) | 13 | -1 |
-| 15 | Sergio Perez | Cadillac | +1 Lap | 1 | M→H | 1:38.523 (L50) | 22 | +7 |
-| — | Max Verstappen | Red Bull | DNF (L45) | 2 | S→H | 1:37.046 (L39) | 8 | DNF |
-| — | Fernando Alonso | Aston Martin | DNF (L32) | 1 | H→? | 1:39.721 (L25) | 19 | DNF |
-| — | Lance Stroll | Aston Martin | DNF (L9) | 0 | H | 1:40.883 (L9) | 21 | DNF |
-| — | Oscar Piastri | McLaren | DNS | — | — | — | 5 | DNS |
-| — | Lando Norris | McLaren | DNS | — | — | — | 6 | DNS |
-| — | Gabriel Bortoleto | Audi | DNS | — | — | — | 16 | DNS |
-| — | Alex Albon | Williams | DNS | — | — | — | 18 | DNS |
+| Pos | Driver | Team | Grid | Δ | Gap | Stops | Strategy | Fastest Lap |
+|-----|--------|------|------|---|-----|-------|----------|------------|
+| 1 | Kimi Antonelli | Mercedes | 1 | — | 1:33:15.607 | 1 | M→H | 1:35.275 (L52) |
+| 2 | George Russell | Mercedes | 2 | — | +5.515 | 1 | M→H | 1:35.400 (L56) |
+| 3 | Lewis Hamilton | Ferrari | 3 | — | +25.267 | 1 | M→H | 1:36.092 (L55) |
+| 4 | Charles Leclerc | Ferrari | 4 | — | +28.894 | 1 | M→H | 1:36.011 (L56) |
+| 5 | Oliver Bearman | Haas | 10 | +5 | +57.268 | 1 | M→H | 1:36.429 (L56) |
+| 6 | Pierre Gasly | Alpine | 7 | +1 | +59.647 | 1 | M→H | 1:36.505 (L53) |
+| 7 | Liam Lawson | Racing Bulls | 14 | +7 | +1:20.588 | 1 | M→H | 1:37.096 (L56) |
+| 8 | Isack Hadjar | Red Bull | 9 | +1 | +1:27.247 | 2 | S→H→H | 1:37.311 (L46) |
+| 9 | Carlos Sainz | Williams | 17 | +8 | +1 Lap | 1 | M→H | 1:37.981 (L51) |
+| 10 | Franco Colapinto | Alpine | 12 | +2 | +1 Lap | 1 | H→M | 1:36.783 (L35) |
+| 11 | Nico Hulkenberg | Audi | 11 | — | +1 Lap | 1 | M→H | 1:36.180 (L38) |
+| 12 | Arvid Lindblad | Racing Bulls | 15 | +3 | +1 Lap | 1 | H→M | 1:36.099 (L46) |
+| 13 | Valtteri Bottas | Cadillac | 20 | +7 | +1 Lap | 1 | M→H | 1:38.393 (L55) |
+| 14 | Esteban Ocon | Haas | 13 | -1 | +1 Lap | 2 | H→M→S | 1:35.964 (L54) |
+| 15 | Sergio Perez | Cadillac | 22 | +7 | +1 Lap | 1 | M→H | 1:38.523 (L50) |
+| — | Max Verstappen | Red Bull | 8 | DNF | DNF (L45) | 2 | S→H | 1:37.046 (L39) |
+| — | Fernando Alonso | Aston Martin | 19 | DNF | DNF (L32) | 1 | H→? | 1:39.721 (L25) |
+| — | Lance Stroll | Aston Martin | 21 | DNF | DNF (L9) | 0 | H | 1:40.883 (L9) |
+| — | Oscar Piastri | McLaren | 5 | DNS | DNS | — | — | — |
+| — | Lando Norris | McLaren | 6 | DNS | DNS | — | — | — |
+| — | Gabriel Bortoleto | Audi | 16 | DNS | DNS | — | — | — |
+| — | Alex Albon | Williams | 18 | DNS | DNS | — | — | — |
 
 **Fastest Lap:** Antonelli 1:35.275 (Lap 52)  
 **Conditions:** Air 14°C, Track 19°C, Wind 11.8 km/h
