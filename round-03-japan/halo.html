@@ -26,13 +26,6 @@
         .board-60 { background: linear-gradient(135deg, #1a1f3a 0%, #0f1428 100%); border-left: 4px solid #ff1801; padding: 20px; margin-bottom: 30px; border-radius: 4px; }
         .board-60 h3 { color: #ff1801; margin-bottom: 10px; font-size: 14px; }
         .board-60 p { margin-bottom: 10px; color: #ccc; font-size: 14px; line-height: 1.8; }
-        .scenario { background: #0f1428; padding: 15px; border-radius: 4px; margin-bottom: 15px; border-left: 3px solid #ffb81c; }
-        .scenario h4 { color: #ffb81c; margin-bottom: 8px; font-size: 13px; }
-        .scenario p { color: #999; font-size: 13px; margin-bottom: 8px; }
-        .bet { background: #1a2435; padding: 15px; border-radius: 4px; margin-bottom: 10px; border-left: 3px solid #00d747; }
-        .bet h4 { color: #00d747; margin-bottom: 5px; }
-        .pass { background: #2a1a1a; padding: 12px; border-radius: 4px; margin-bottom: 8px; border-left: 3px solid #ff5555; }
-        .pass h4 { color: #ff5555; margin-bottom: 4px; font-size: 12px; }
         .strategy-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; }
         .strategy-box { background: #0f1428; padding: 15px; border-radius: 4px; border-left: 3px solid #1e88e5; }
         .strategy-box h4 { color: #1e88e5; margin-bottom: 10px; font-size: 13px; }
@@ -44,12 +37,16 @@
         .timestamp { color: #666; font-size: 12px; margin-top: 20px; padding-top: 20px; border-top: 1px solid #333; }
         .info-box { background: rgba(30, 136, 229, 0.1); border-left: 3px solid #1e88e5; padding: 15px; border-radius: 4px; margin-bottom: 20px; font-size: 13px; color: #ccc; }
         .highlight { background: rgba(255, 184, 28, 0.1); border-left: 3px solid #ffb81c; padding: 15px; border-radius: 4px; margin-bottom: 20px; font-size: 13px; color: #ccc; }
-        .banner { background: rgba(255, 24, 1, 0.08); border: 1px solid rgba(255, 24, 1, 0.3); padding: 15px; border-radius: 4px; margin-bottom: 25px; text-align: center; }
-        .banner strong { color: #ff1801; font-size: 14px; }
+        .banner { background: rgba(255, 24, 1, 0.08); border: 1px solid rgba(255, 24, 1, 0.3); padding: 18px; border-radius: 6px; margin-bottom: 25px; text-align: center; }
+        .banner strong { color: #ff1801; font-size: 15px; }
         .banner p { color: #999; font-size: 12px; margin-top: 5px; }
+        .pending { opacity: 0.5; }
+        .pending-label { color: #ff1801; font-size: 11px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; }
         .track-layout { text-align: center; margin: 20px 0; }
-        .track-layout img { max-width: 500px; width: 100%; filter: invert(0.7) sepia(0.2) hue-rotate(180deg) brightness(1.2); opacity: 0.7; }
-        .track-layout p { color: #666; font-size: 11px; margin-top: 8px; }
+        .track-layout img { max-width: 500px; width: 100%; filter: invert(0.85) sepia(0.15) hue-rotate(180deg) brightness(1.3); opacity: 0.8; }
+        .track-layout .track-stats { color: #999; font-size: 12px; margin-top: 10px; }
+        .prev-round { background: #0f1428; border: 1px solid #222; border-radius: 8px; padding: 20px; margin-bottom: 30px; }
+        .prev-round h2 { color: #666; font-size: 14px; margin-bottom: 15px; text-transform: uppercase; letter-spacing: 1px; }
     </style>
 </head>
 <body>
@@ -59,6 +56,7 @@
             <p class="subtitle">Round 3: Japan 2026 (Suzuka) | Standard Format Weekend | Mar 27–29</p>
         </header>
 
+        <!-- TABS -->
         <div class="tab-nav">
             <a href="/round-03-japan/halo.html" class="active">Halo (Summary)</a>
             <a href="/viewer.html?file=/round-03-japan/overview.md">Overview</a>
@@ -70,33 +68,34 @@
 
         <!-- PRE-RACE BANNER -->
         <div class="banner">
-            <strong>⏳ PRE-RACE — Qualifying and race data pending</strong>
-            <p>FP1: Friday Mar 28 01:30 AM EDT | Qualifying: Saturday Mar 29 02:00 AM EDT | Race: Sunday Mar 29 21:00 EDT</p>
+            <strong>🔄 Pre-Race — FP1/FP2/FP3 and qualifying data pending</strong>
+            <p>FP1: Thu Mar 27 01:30 AM EDT | FP2: Thu Mar 27 05:00 AM EDT | FP3: Fri Mar 28 01:30 AM EDT | Qualifying: Fri Mar 28 05:00 AM EDT | Race: Sat Mar 29 01:00 AM EDT</p>
         </div>
 
-        <!-- BOARD 60 -->
+        <!-- BOARD 60 — PRE-RACE -->
         <div class="board-60">
-            <h3>BOARD 60 — 60-Second Boardroom Summary</h3>
+            <h3>BOARD 60 — Pre-Race Assessment</h3>
             <p>
-                <strong>Mercedes arrives at Suzuka as the overwhelming favorite — 1-2 in both races, both sprints.</strong>
-                Antonelli has a grand slam (pole, win, fastest lap, sprint win in China). Russell is the experienced hand — 
-                Suzuka rewards precision and circuit knowledge. Russell has the edge on experience here.
+                <strong>Mercedes arrives at Suzuka as the overwhelming favorite — 1-2 in both races, both sprints across R01-R02.</strong>
+                Antonelli has a grand slam from China (pole, win, fastest lap, sprint win). Russell is the experienced hand — 
+                Suzuka rewards precision and circuit knowledge, and Russell has more laps here. But Antonelli's momentum is real.
             </p>
             <p>
                 <strong>Ferrari is locked in as P3-P4.</strong> Hamilton has 6 Suzuka wins — his best track historically. 
                 If any non-Mercedes driver overperforms, it's Hamilton. Leclerc's gap to Hamilton will be worth watching.
+                First Ferrari podium secured in China — can they close the gap at a track Hamilton knows inside out?
             </p>
             <p>
-                <strong>Reliability crisis continues:</strong> RBPT has 2 PU failures in 2 races (Verstappen). Both McLarens DNS in China. 
-                Both Aston Martins DNF. Until Red Bull, McLaren, and Aston Martin prove they can finish a race, they're 
-                not bettable. Suzuka is a demanding circuit — mechanically fragile cars will break here.
+                <strong>Reliability crisis continues:</strong> RBPT has 2 PU failures in 2 races (both Verstappen). 
+                Both McLarens DNS in China. Both Aston Martins DNF. Suzuka is mechanically demanding — 
+                high-speed corners (Esses, 130R) stress every component. Fragile cars will break here.
             </p>
             <p>
                 <strong>Midfield watch:</strong> Bearman (P5 China from P10) and Gasly (P6 China) are the breakout stories. 
-                Alpine on Mercedes PU at a power circuit like Suzuka could be strong. Haas continues to outperform its weight class.
+                Alpine on Mercedes PU at a power circuit like Suzuka could be strong. Haas continues to outperform.
             </p>
             <p>
-                <strong>Conviction: HIGH that Mercedes wins. Medium on which Mercedes driver.</strong>
+                <strong>Conviction: HIGH that Mercedes wins. Medium on which Mercedes driver. Wait for FP data.</strong>
             </p>
         </div>
 
@@ -104,22 +103,22 @@
         <div class="card full-width">
             <h2>Circuit — Suzuka International Racing Course</h2>
             <div class="track-layout">
-                <img src="/assets/tracks/suzuka.svg" alt="Suzuka Circuit Layout" />
-                <p>5.807 km | 53 laps | Figure-8 layout | Clockwise</p>
+                <img src="/assets/tracks/suzuka.png" alt="Suzuka Circuit Layout" />
+                <div class="track-stats">5.807 km | 53 laps | 307.471 km race distance | Figure-8 layout | Clockwise</div>
             </div>
-            <div class="strategy-grid">
+            <div class="strategy-grid" style="margin-top: 15px;">
                 <div class="strategy-box">
                     <h4>Circuit Character</h4>
                     <p>One of F1's greatest tracks. Figure-8 layout with flowing high-speed sections (Esses, 130R) 
                     and technical low-speed zones (hairpin, chicane). Rewards total car balance — aero, mechanical grip, 
-                    and PU power all matter. High tyre degradation.</p>
+                    and PU power all matter. High tyre degradation from lateral loads.</p>
                 </div>
                 <div class="strategy-box">
                     <h4>Key Corners</h4>
-                    <p><strong>Esses (T3-T7):</strong> High-speed flowing section. Separates cars by aero quality.<br/>
+                    <p><strong>Esses (T3-T7):</strong> High-speed flowing section — separates cars by aero quality.<br/>
                     <strong>Spoon (T13-T14):</strong> Double-apex, heavy tyre load. Rear stability critical.<br/>
-                    <strong>130R (T15):</strong> ~300 km/h left-hander. Flat-out with 2026 cars.<br/>
-                    <strong>Chicane (T16-T17):</strong> Only real overtaking zone with DRS into T1.</p>
+                    <strong>130R (T15):</strong> ~300 km/h left-hander. Flat-out with 2026 active aero.<br/>
+                    <strong>Chicane (T16-T17):</strong> Primary overtaking zone with DRS into T1.</p>
                 </div>
                 <div class="strategy-box">
                     <h4>Mercedes Advantage</h4>
@@ -130,134 +129,137 @@
                     <h4>Overtaking Difficulty</h4>
                     <p>Active aero + DRS zones help, but Suzuka is still a qualifying-position track. 
                     Starting inside top 4 = near-guaranteed podium if reliable. Recovery drives from P8+ 
-                    are harder here than China.</p>
+                    are harder here than China or Australia.</p>
                 </div>
             </div>
         </div>
 
         <!-- TYRE ALLOCATION -->
         <div class="card full-width">
-            <h2>Tyre Allocation — Japan GP</h2>
+            <h2>Tyre Allocation — Japan GP (Confirmed)</h2>
             <table>
                 <thead>
                     <tr><th>Compound</th><th>Pirelli Code</th><th>Strategy Role</th></tr>
                 </thead>
                 <tbody>
-                    <tr><td><strong>Soft (Red)</strong></td><td>C1</td><td>Hardest compound selection. Suzuka's high-energy corners demand durable rubber. Qualifying compound — may be viable for short race stints.</td></tr>
-                    <tr><td><strong>Medium (Yellow)</strong></td><td>C2</td><td>Expected race start compound. Best pace/durability balance. One-stop backbone.</td></tr>
-                    <tr><td><strong>Hard (White)</strong></td><td>C3</td><td>Long stint compound. May see use in two-stop strategies for final stint. Could be race start choice if degradation is extreme.</td></tr>
+                    <tr><td><strong>Hard (White)</strong></td><td>C1</td><td>Most durable compound. Long-stint backbone for one-stop strategies. Possible race-start choice if deg is extreme.</td></tr>
+                    <tr><td><strong>Medium (Yellow)</strong></td><td>C2</td><td>Expected race start compound. Best pace/durability balance for Suzuka's demanding corners.</td></tr>
+                    <tr><td><strong>Soft (Red)</strong></td><td>C3</td><td>Qualifying compound. Higher grip but faster degradation. Short race stints only — may be viable for undercuts.</td></tr>
                 </tbody>
             </table>
             <div class="info-box" style="margin-top: 15px;">
-                <strong>Note:</strong> C1/C2/C3 is the hardest compound selection Pirelli offers. Suzuka's high-energy, high-speed corners 
-                (Esses, Spoon, 130R) put massive lateral and thermal load on tyres. Expect higher deg than China (which used C3/C4/C5).
-                Strategy will lean toward one-stop (C2→C3 or C3→C2) unless Safety Cars create opportunities.
+                <strong>Note:</strong> C1/C2/C3 is the hardest compound selection Pirelli offers — same as used at high-energy circuits 
+                like Silverstone and Spa. Suzuka's high-speed corners (Esses, Spoon, 130R) put massive lateral and thermal load on tyres. 
+                Expect higher deg than China (which used C3/C4/C5). Strategy will lean toward one-stop (C2→C1 or C1→C2) unless Safety Cars create windows.
             </div>
         </div>
 
-        <!-- POWER TIERS -->
+        <!-- QUALIFYING GRID — PENDING -->
+        <div class="card full-width pending">
+            <h2>Qualifying Grid — Suzuka</h2>
+            <p class="pending-label">⏳ Pending — post Saturday qualifying</p>
+            <table>
+                <thead>
+                    <tr><th>Pos</th><th>Driver</th><th>Team</th><th>Time/Gap</th><th>Session</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td colspan="5" style="text-align: center; color: #555; padding: 30px;">Qualifying data will be populated after Saturday session</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- WEEKEND PROGRESSION — PENDING -->
+        <div class="card full-width pending">
+            <h2>Weekend Progression</h2>
+            <p class="pending-label">⏳ Pending — updates after each session</p>
+            <table>
+                <thead>
+                    <tr><th>Session</th><th>P1</th><th>P2</th><th>P3</th><th>Key Signal</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td><strong>FP1</strong></td><td>—</td><td>—</td><td>—</td><td>Thu Mar 27 01:30 AM EDT</td></tr>
+                    <tr><td><strong>FP2</strong></td><td>—</td><td>—</td><td>—</td><td>Thu Mar 27 05:00 AM EDT</td></tr>
+                    <tr><td><strong>FP3</strong></td><td>—</td><td>—</td><td>—</td><td>Fri Mar 28 01:30 AM EDT</td></tr>
+                    <tr><td><strong>Qualifying</strong></td><td>—</td><td>—</td><td>—</td><td>Fri Mar 28 05:00 AM EDT</td></tr>
+                    <tr style="background: rgba(255, 24, 1, 0.05);"><td><strong>Race</strong></td><td>—</td><td>—</td><td>—</td><td>Sat Mar 29 01:00 AM EDT</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- POWER TIERS — BASELINE FROM CHINA -->
         <div class="grid">
             <div class="card">
                 <h2>🔥 Tier 1 — Clear Pace Advantage</h2>
+                <p class="pending-label">Baseline from R02 China — update after FP</p>
                 <table>
-                    <tr><td><strong>Mercedes</strong></td><td>1-2 in every session across 2 rounds. W17 is the benchmark. Expect dominance to continue at Suzuka.</td></tr>
+                    <tr><td><strong>Mercedes</strong></td><td>1-2 every session across R01-R02. W17 is the benchmark. Expect continued dominance.</td></tr>
                 </table>
             </div>
             <div class="card">
                 <h2>↗️ Tier 2 — Competitive</h2>
+                <p class="pending-label">Baseline from R02 China — update after FP</p>
                 <table>
-                    <tr><td><strong>Ferrari</strong></td><td>+0.64s/lap race pace in China. Hamilton's Suzuka pedigree (6 wins) could close the gap. Locked P3-P4.</td></tr>
+                    <tr><td><strong>Ferrari</strong></td><td>+0.64s/lap race pace (China). Hamilton's Suzuka pedigree could close gap. Locked P3-P4.</td></tr>
                 </table>
             </div>
             <div class="card">
-                <h2>→ Tier 3 — Midfield (Emerging)</h2>
+                <h2>→ Tier 3 — Midfield</h2>
+                <p class="pending-label">Baseline from R02 China — update after FP</p>
                 <table>
-                    <tr><td><strong>Alpine</strong></td><td>Mercedes PU. Gasly P6 China was real pace. Suzuka's power demands suit them.</td></tr>
-                    <tr><td><strong>Haas</strong></td><td>Bearman P5 from P10 in China. Consistent overperformer. Dark horse for top 5.</td></tr>
+                    <tr><td><strong>Alpine</strong></td><td>Mercedes PU. Gasly P6 China. +1.32s/lap race pace.</td></tr>
+                    <tr><td><strong>Haas</strong></td><td>Bearman P5 from P10 China. +1.43s/lap. Consistent overperformer.</td></tr>
+                    <tr><td><strong>Racing Bulls</strong></td><td>+1.81s/lap. Midfield runners.</td></tr>
+                    <tr><td><strong>Audi</strong></td><td>+1.83s/lap. Hulkenberg missed Q3 by 0.002s.</td></tr>
                 </table>
             </div>
             <div class="card">
                 <h2>🔻 Tier 4 — Unreliable / Uncompetitive</h2>
+                <p class="pending-label">Baseline from R02 China — update after FP</p>
                 <table>
-                    <tr><td><strong>Red Bull</strong></td><td>RBPT: 2 PU failures in 2 races. Suzuka will stress the PU hard. Risky.</td></tr>
-                    <tr><td><strong>McLaren</strong></td><td>Both DNS China. Must prove they can start before they can race.</td></tr>
+                    <tr><td><strong>Red Bull</strong></td><td>RBPT: 2 PU failures in 2 races. Cannot be trusted mechanically.</td></tr>
+                    <tr><td><strong>McLaren</strong></td><td>Both DNS China. Must prove they can start a race.</td></tr>
+                    <tr><td><strong>Williams</strong></td><td>+2.47s/lap. Both Q1 exits.</td></tr>
                     <tr><td><strong>Aston Martin</strong></td><td>3 DNFs from 4 starts. Honda PU reliability crisis.</td></tr>
-                    <tr><td><strong>Audi</strong></td><td>Hulkenberg missed Q3 by 0.002s. Pace improving but still backmarker.</td></tr>
-                    <tr><td><strong>Williams</strong></td><td>Both Q1 exits in China. +2.47s/lap off pace.</td></tr>
-                    <tr><td><strong>Cadillac</strong></td><td>Dead last. +3.51s/lap. Cannot score on pace.</td></tr>
+                    <tr><td><strong>Cadillac</strong></td><td>+3.51s/lap. Dead last by a wide margin.</td></tr>
                 </table>
             </div>
         </div>
 
-        <!-- RACE STRATEGY PREVIEW -->
-        <div class="card full-width">
-            <h2>Race Strategy Preview (Sun Mar 29)</h2>
+        <!-- RACE STRATEGY — PENDING -->
+        <div class="card full-width pending">
+            <h2>Race Strategy</h2>
+            <p class="pending-label">⏳ Pending — post qualifying</p>
             <div class="strategy-grid">
-                <div class="strategy-box">
-                    <h4>Mercedes: Control Race from Front</h4>
-                    <p>C2 (Medium) → C1 (Hard). Manage from pole. Internal battle Russell vs Antonelli is the story.</p>
-                    <div class="stat"><span class="stat-label">Expected:</span><span class="stat-value">One-stop, lap 22-26</span></div>
+                <div class="strategy-box" style="opacity: 0.6;">
+                    <h4>Strategy preview will be populated after qualifying</h4>
+                    <p>Team-by-team strategies depend on grid positions, tyre deg data from FP2 long runs, and weather forecast.</p>
+                    <div class="stat"><span class="stat-label">Expected baseline:</span><span class="stat-value">One-stop C2→C1 (lap 22-26)</span></div>
                 </div>
-                <div class="strategy-box">
-                    <h4>Ferrari: Mirror or Offset</h4>
-                    <p>Hamilton knows Suzuka inside-out. May try early undercut on C1 start to jump a Mercedes in pits.</p>
-                    <div class="stat"><span class="stat-label">Expected:</span><span class="stat-value">One-stop, offset window</span></div>
-                </div>
-                <div class="strategy-box">
-                    <h4>Midfield: Survive and Score</h4>
-                    <p>Bearman/Gasly need clean qualifying to position for top 5-6. Points are guaranteed if they stay out of trouble.</p>
-                    <div class="stat"><span class="stat-label">Expected:</span><span class="stat-value">Conservative one-stop</span></div>
-                </div>
-                <div class="strategy-box">
-                    <h4>Red Bull / McLaren: Must Finish</h4>
-                    <p>Both need to prove reliability. Strategy is irrelevant if the car doesn't survive 53 laps.</p>
-                    <div class="stat"><span class="stat-label">Expected:</span><span class="stat-value">Conservative, protect PU</span></div>
-                </div>
-            </div>
-        </div>
-
-        <!-- BETTING ASSESSMENT (public analysis only) -->
-        <div class="card full-width">
-            <h2>Betting Assessment — Analysis Only</h2>
-
-            <div class="scenario">
-                <h4>Market View: Mercedes Race Win</h4>
-                <p>Heavy favorite. Market has caught up to reality after 2 rounds of dominance. No value at short odds. 
-                Internal battle (Antonelli vs Russell) is the real question — Russell has more Suzuka experience.</p>
-            </div>
-
-            <div class="scenario">
-                <h4>Watch: Bearman Top 5 / Gasly Top 6</h4>
-                <p>Both showed legitimate pace in China. If they qualify inside top 8, the value is real — 
-                especially with Red Bull/McLaren reliability risk giving them free positions. 
-                Wait for qualifying before committing.</p>
-            </div>
-
-            <div class="pass">
-                <h4>❌ AVOID: Red Bull / McLaren / Aston Martin</h4>
-                <p>50% or worse reliability rates. Suzuka is mechanically demanding. Do not bet on cars that can't finish races.</p>
-            </div>
-
-            <div class="info-box">
-                <strong>Key insight:</strong> Suzuka is a qualifying-position track. The real betting edge comes AFTER qualifying. 
-                Pre-weekend odds are noise. Wait for FP data, qualifying grid, and Sunday weather.
             </div>
         </div>
 
         <!-- PREVIOUS ROUND REFERENCE -->
-        <div class="card full-width">
-            <h2>Previous Round — China R2 Summary</h2>
-            <div class="stat"><span class="stat-label">Winner:</span><span class="stat-value">Antonelli (pole, win, fastest lap — grand slam)</span></div>
-            <div class="stat"><span class="stat-label">Mercedes dominance:</span><span class="stat-value">1-2 in both races + both sprints across R1-R2</span></div>
-            <div class="stat"><span class="stat-label">Race pace gap:</span><span class="stat-value">Ferrari +0.64s/lap, Alpine +1.32s, then the rest</span></div>
-            <div class="stat"><span class="stat-label">Reliability crisis:</span><span class="stat-value">RBPT 2 failures/2 races | Honda 2 DNFs | McLaren 2 DNS</span></div>
-            <div class="stat"><span class="stat-label">Breakout performers:</span><span class="stat-value">Bearman P5 (from P10) | Gasly P6</span></div>
-            <div class="stat"><span class="stat-label">Weight penalty:</span><span class="stat-value">Mercedes +2kg (lightest) → Red Bull +28.5kg (heaviest) — ~0.93s/lap delta</span></div>
+        <div class="prev-round">
+            <h2>Previous Round — R02 China (Reference)</h2>
+            <p style="margin-bottom: 15px; color: #999; font-size: 13px; line-height: 1.8;">
+                <strong style="color: #ffb81c;">🏆 ANTONELLI WINS — Maiden F1 Victory.</strong> Pole, win, fastest lap. 5.5s winning margin. F1's second-youngest winner ever. 
+                Mercedes 1-2 (Russell P2). Hamilton P3 — first Ferrari podium. 
+                <strong>7 cars failed to finish/start</strong> (3 DNF + 4 DNS). Verstappen DNF (lap 45, RBPT failure). Both McLarens DNS. Both Aston Martins DNF.
+            </p>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; font-size: 12px;">
+                <div class="stat"><span class="stat-label">Winner:</span><span class="stat-value">Antonelli (grand slam)</span></div>
+                <div class="stat"><span class="stat-label">Mercedes dominance:</span><span class="stat-value">1-2 in both races + sprints</span></div>
+                <div class="stat"><span class="stat-label">Race pace gap:</span><span class="stat-value">Ferrari +0.64s/lap</span></div>
+                <div class="stat"><span class="stat-label">Reliability crisis:</span><span class="stat-value">RBPT 2/2 failures</span></div>
+                <div class="stat"><span class="stat-label">Breakout:</span><span class="stat-value">Bearman P5, Gasly P6</span></div>
+                <div class="stat"><span class="stat-label">Weight penalty:</span><span class="stat-value">Mercedes +2kg → RBR +28.5kg</span></div>
+            </div>
         </div>
 
         <div class="timestamp">
             Report Generated: March 25, 2026 (Pre-Race) | Japan 2026 Round 3 |
-            <span style="color: #ffb81c;">F1 Strategist System v2.0</span>
+            <span style="color: #ffb81c;">F1 Strategist System v2.0</span> |
+            Pending sections will be updated as weekend progresses.
         </div>
     </div>
 </body>
