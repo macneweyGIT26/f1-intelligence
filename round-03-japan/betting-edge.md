@@ -5,19 +5,6 @@
 
 ---
 
-## Season Betting Ledger
-
-| Round | Bet | Conviction | Result | Notes |
-|-------|-----|-----------|--------|-------|
-| R1 Australia | No bets placed | — | — | Monitoring only |
-| R2 China Sprint | Leclerc +275 sprint → CANCELLED | 3/10 | Correct pass | Leclerc P2 — would have lost |
-| R2 China Race | No bets placed | — | — | Monitoring only |
-| R3 Japan | Pre-race — positions pending | — | — | See assessment below |
-
-**Season record:** No capital deployed. Discipline over activity.
-
----
-
 ## DO NOT BET LIST (Hard Rules)
 
 These teams are excluded from all betting until further evidence:
@@ -36,47 +23,34 @@ These teams are excluded from all betting until further evidence:
 ### Mercedes Race Win
 - **Expected odds:** -150 to +120 (heavy favorite)
 - **View:** Correctly priced. Market has caught up after 2 rounds of total dominance. No edge at short odds.
-- **Antonelli vs Russell:** Russell has more Suzuka experience and proven race management. Antonelli has momentum (grand slam in China). Slight lean Russell based on circuit knowledge.
-- **Conviction:** 4/10 for either at market odds — no edge.
+- **Antonelli vs Russell:** Russell has more Suzuka experience and proven race management. Antonelli has momentum (grand slam in China). Slight lean Antonelli — momentum is real and Mercedes doesn't need to manage him anymore.
+- **Conviction:** 5/10 for Antonelli at +300 — slight edge if market still treats him as underdog to Russell.
 
 ### Ferrari Podium
 - **Expected odds:** -200 for at least one podium
-- **View:** Correct pricing. They're guaranteed P3-P4 unless mechanical issue. Not bettable at these prices.
-- **Hamilton has 6 Suzuka wins** — if any Ferrari driver overperforms, it's him. Watch for weather disruption as a variable.
+- **View:** Correct pricing. They're guaranteed P3-P4 unless mechanical issue. Both Hamilton and Leclerc are bettable individually at -125 because the only way they miss is a DNF.
+- **Hamilton:** 6 Suzuka wins. His best track historically. Strong lean.
+- **Leclerc:** Consistent P4 finisher. Floor is high.
 
-### Bearman Top 5
-- **Expected odds:** ~+400 to +600
-- **View:** INTERESTING. P5 in China from P10 grid. If McLaren/Red Bull continue reliability implosion, P5 is his floor. Qualifying position is key — needs P7+ to make this viable.
-- **Conviction:** 5/10 — wait for qualifying grid position before committing.
+### Bearman / Gasly — Midfield Value
+- **Bearman:** P5 in China from P10 grid. Haas is overperforming. But Suzuka is harder to recover positions — needs to qualify well.
+- **Gasly:** Alpine on Mercedes PU at a power circuit. P6 in China was legitimate pace.
+- **View:** Both are watch-and-wait plays. Not pre-committing.
 
-### Gasly Top 6
-- **Expected odds:** ~+300 to +500
-- **View:** Alpine on Mercedes PU at a power circuit. P6 in China was legitimate pace, not a fluke. Suzuka's long straights + power demands suit the Mercedes PU advantage.
-- **Conviction:** 5/10 — conditional on qualifying inside top 8.
+### Verstappen Winner
+- **Expected odds:** +2500
+- **View:** Lottery ticket only. 50% chance the car breaks. If it doesn't, he has the talent to win from anywhere. $0.50 at +2500 = $13 return. Worth the chaos hedge.
+- **Conviction:** 2/10 on probability, but the payout justifies minimum stake.
 
-### Verstappen Points Finish
-- **Expected odds:** ~-110 to +120
-- **View:** AVOID. 50% reliability rate means this is a coin flip regardless of talent. Suzuka is mechanically demanding — the RBPT will be under maximum stress through the Esses, Spoon, and 130R.
-- **Conviction:** 2/10 — do not touch.
+### Ocon Group 4
+- **Expected odds:** ~+105
+- **View:** Haas is consistently the best of the rest after Alpine. Ocon has been quiet but steady. Group 4 (P13-P16 range) is his natural home. Slight value at plus money.
+- **Conviction:** 5/10.
 
----
-
-## Simulated Position Tracker — R3 Japan
-
-| # | Market | Selection | Odds | Sim Stake | Conviction | Status | Sim P/L |
-|---|--------|-----------|------|-----------|------------|--------|---------|
-| 1 | Race winner | Russell | +150 | $5 | 5/10 | PENDING (post-quali) | — |
-| 2 | Top 5 finish | Bearman | +450 | $3 | 5/10 | PENDING (post-quali) | — |
-| 3 | Top 6 finish | Gasly | +350 | $3 | 5/10 | PENDING (post-quali) | — |
-| 4 | DNF market | Verstappen DNF | +200 | $2 | 6/10 | PENDING | — |
-| 5 | Hamilton podium | Hamilton P3 | +120 | $4 | 6/10 | PENDING | — |
-
-**All positions are PENDING — activation conditional on qualifying results and final odds.**
-
-**Activation criteria:**
-- Positions 1-3: Only activate if qualifying grid supports the thesis
-- Position 4: Activate if RBPT shows any distress in practice sessions
-- Position 5: Activate if Hamilton qualifies P3+ and no rain forecast
+### Hadjar Winner
+- **Expected odds:** +20000
+- **View:** Pure lottery. Red Bull car can't be trusted, but if Verstappen DNFs and Hadjar has a clean race with Safety Car chaos... $0.50 for a $100 return. Filed under "why not."
+- **Conviction:** 1/10.
 
 ---
 
@@ -107,5 +81,34 @@ These teams are excluded from all betting until further evidence:
 
 ---
 
-*Newey places and tracks all simulated bets. Internal model performance tracking only. Not gambling advice.*
-*Post-qualifying update will refine conviction levels and activate/cancel specific positions.*
+## 📊 Season Betting Ledger
+*Newey simulated bets — internal model performance tracking only.
+Not gambling advice. Newey places all simulated bets.*
+
+### R03 Japan — Current Week
+
+| Bet | Odds | Sim Stake | Result | P&L |
+|---|---|---|---|---|
+| Antonelli winner | +300 | $4 | PENDING | — |
+| Leclerc podium | -125 | $3 | PENDING | — |
+| Hamilton podium | -125 | $3 | PENDING | — |
+| Verstappen winner | +2500 | $0.50 | PENDING | — |
+| Ocon Group 4 | +105 | $1 | PENDING | — |
+| Hadjar winner | +20000 | $0.50 | PENDING | — |
+| **Week total** | | **$12** | PENDING | — |
+
+### Season Summary
+
+| Round | Staked | Return | Net | Season P&L |
+|---|---|---|---|---|
+| R01 Australia | — | — | — | — |
+| R02 China | — | — | — | — |
+| R03 Japan | $12 | PENDING | — | — |
+| **Season** | **$12** | **PENDING** | **—** | **—** |
+
+Week P&L: PENDING
+Season P&L: — (R01 + R02 data pending)
+
+---
+
+*Internal analysis only. Not for public distribution.*
