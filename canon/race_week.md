@@ -164,6 +164,27 @@ For actual locations, see `/Users/newey/.openclaw/workspace/projects/f1-intellig
 
 ---
 
-**Authority:** User (2026-03-23)  
-**Next review:** Post-Japan debrief  
+## Doctrine Evolution Rule (Added 2026-03-28)
+
+**Strategy evolves with data, not repetition.**
+
+**What this means:**
+1. **No repeating baselines.** Once a pattern is established (e.g., "McLaren reliability proved by R3"), it becomes canon. Don't re-explain it R4, R5, etc.
+2. **Data drives updates.** Example: "Ferrari improves power unit by R5" = you give data, we measure performance (grid position, pace delta, reliability), update memo with trend, adjust odds weighting for R6+.
+3. **Season-long model building.** R1–R3 establishes baseline. R4–R6 reveals trends. R7+ locks confidence levels.
+4. **Three new canon files lock tactical framework:**
+   - `track_nuance_framework.md` — Technical/Qualifying/Chaos tags for every race
+   - `junior_team_tracking.md` — Lindblad vs Hadjar as Red Bull development signal
+   - `team_power_unit_roster.md` — PU assignments, corrections, carry-forward rules
+
+**Immediate changes to race-week workflow:**
+
+1. **Track tags must appear on every halo entry** (Technical rating, Qualifying importance, Chaos probability). Top of page, three colored indicators.
+2. **Lindblad tracked every race** (vs Hadjar). Intra-team gap = Red Bull system health signal.
+3. **No restating established facts.** Example: "McLaren Mercedes PU proven reliable" is canon after R3. R4 debrief assumes reader knows this. Don't repeat.
+4. **Strategy section updates probabilistically.** If data changes odds weighting (e.g., Ferrari PU improves), memo updates. If nothing new, no section added.
+
+**Authority:** User (2026-03-28)  
+**Original authority:** User (2026-03-23)  
+**Next review:** Post-Miami (R6) and season evolution checkpoint.  
 **Questions:** See SKILL.md (skills/f1-race-week/SKILL.md)
