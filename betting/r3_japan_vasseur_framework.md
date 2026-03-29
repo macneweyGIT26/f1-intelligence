@@ -179,3 +179,37 @@ Ferrari approach at Miami:
 **Canon status:** LOCKED  
 **Authority:** Vasseur direct quotes  
 **Next update:** Post-Miami FP1 observations (May 2, 2026)
+
+---
+
+## R3 JAPAN BETTING RESULTS & DEPLOYMENT STATUS
+
+**Deployment timeline (Mar 29, 2026):**
+- 09:35 EDT: Race results published (r3_japan_2026_results.md, 337 lines)
+- 14:36-14:40 EDT: Vasseur framework + betting strategy (r3_japan_vasseur_framework.md, 182 lines)
+- 14:40 EDT: Vercel deployment fix (unescaped ampersands in halo.html)
+
+**Git commits (all LIVE):**
+- 549c5e9: R3 Japan final results + technical narratives
+- ed6a715: Vasseur technical framework + betting exit triggers
+- d103ba0: XML parsing error fix (halo.html ampersands)
+
+**Betting framework ready for execution:**
+✅ Ferrari strategy mapped (software + aero, straight-line locked)
+✅ Miami FP1 monitors defined (straight-line speed, sector times, tire warm-up, SOC)
+✅ Exit triggers documented (Green/Yellow/Red confidence levels)
+✅ ADUO wildcard identified (mid-season cash-out window if authorized)
+✅ Stamina model applied (late-season advantage to underdogs if ADUO comes)
+
+**Recommended pre-Miami betting approach:**
+1. **Attack Monday/Tuesday** — Execute Ferrari upside before upgrade confirmed
+2. **Monitor FP1 closely** — Algorithm delivery signals (tire warm-up, energy management comments)
+3. **Execute exit plan** — Green (hold), Yellow (reduce), Red (exit)
+4. **Track ADUO timeline** — FIA announcement triggers long-term odds repositioning
+
+**Expected Miami outcomes:**
+- **Base case:** Ferrari gains 0.05-0.15s, closes McLaren gap slightly, still behind Mercedes
+- **Upside case:** Algorithm works perfectly, Leclerc challenges Piastri for P2
+- **Downside case:** Software ineffective, McLaren updates prove superior, Leclerc stays P3+
+
+**Next phase:** Post-Miami analysis + ADUO tracking (May 2-5, 2026)
