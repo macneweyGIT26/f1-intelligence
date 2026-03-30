@@ -1,83 +1,134 @@
 # F1 STRATEGIC INTELLIGENCE — BETTING EDGE
-## Round 3: Japan 2026
+## Round 3: Japan 2026 — POST-RACE
 
 **Tabs:** [ [Halo](/round-03-japan/halo.html) ] [ [Overview](/viewer.html?file=/round-03-japan/overview.md) ] [ [Rankings](/viewer.html?file=/round-03-japan/rankings.md) ] [ [Engine View](/viewer.html?file=/round-03-japan/engines.md) ] [ [Strategy](/viewer.html?file=/round-03-japan/strategy.md) ] [ [Betting Edge](/viewer.html?file=/round-03-japan/betting-edge.md) ]
 
 ---
 
-## DO NOT BET LIST (Hard Rules)
-
-These teams are excluded from all betting until further evidence:
+## DO NOT BET LIST (Updated Post-R3)
 
 | Team | Reason | Re-evaluate When |
 |------|--------|-----------------|
-| **Aston Martin** | 3 DNFs from 4 starts. Honda PU reliability = 25%. Zero points. | Two consecutive finishes. |
-| **Cadillac** | 3.51s/lap off pace. Cannot score points by pace alone. | Pace within 2s/lap of leader. |
-| **Red Bull** | 2 PU failures in 2 races. Verstappen's talent is irrelevant if car breaks. | One clean weekend (qualify + finish). |
-| **McLaren** | Both DNS in China. Until they prove they can START a race, avoid. | Complete a full race weekend. |
+| **Aston Martin** | Stroll DNF again. Honda harvest ceiling = structural handicap. Alonso forced into extended lift-and-coast. Not fixable mid-season. | Honda PU redesign (not happening 2026). |
+| **Cadillac** | 3.14s/lap off Mercedes pace. Cannot score points by pace alone. | Pace within 2s/lap of leader. |
+| **Red Bull** | Verstappen P8. In-house PU +1.02s/lap deficit to Mercedes. Regulation disadvantage endemic. | RBPT PU upgrade or regulation change. |
+
+### REMOVED FROM DO NOT BET
+| Team | Why Removed | New Status |
+|------|-------------|------------|
+| **McLaren** | Piastri P2, Norris P5. Both finished. Peak PU performance reached via Mercedes ECU updates. Now #2 force. | ACTIVE — bettable |
 
 ---
 
-## Market Assessment — Japan GP (Suzuka)
+## R3 JAPAN — RESULTS
 
-### Mercedes Race Win
-- **Expected odds:** -150 to +120 (heavy favorite)
-- **View:** Correctly priced. Market has caught up after 2 rounds of total dominance. No edge at short odds.
-- **Antonelli vs Russell:** Russell has more Suzuka experience and proven race management. Antonelli has momentum (grand slam in China). Slight lean Antonelli — momentum is real and Mercedes doesn't need to manage him anymore.
-- **Conviction:** 5/10 for Antonelli at +300 — slight edge if market still treats him as underdog to Russell.
+### Final Classification (Top 10)
 
-### Ferrari Podium
-- **Expected odds:** -200 for at least one podium
-- **View:** Correct pricing. They're guaranteed P3-P4 unless mechanical issue. Both Hamilton and Leclerc are bettable individually at -125 because the only way they miss is a DNF.
-- **Hamilton:** 6 Suzuka wins. His best track historically. Strong lean.
-- **Leclerc:** Consistent P4 finisher. Floor is high.
+| Pos | Driver | Team | Gap |
+|-----|--------|------|-----|
+| 1 | Antonelli | Mercedes | — |
+| 2 | Piastri | McLaren | +13.722 |
+| 3 | Leclerc | Ferrari | +15.270 |
+| 4 | Russell | Mercedes | +15.754 |
+| 5 | Norris | McLaren | +23.479 |
+| 6 | Hamilton | Ferrari | +25.037 |
+| 7 | Gasly | Alpine | +32.340 |
+| 8 | Verstappen | Red Bull | +32.677 |
+| 9 | Lawson | Racing Bulls | +50.180 |
+| 10 | Ocon | Haas | +51.216 |
 
-### Bearman / Gasly — Midfield Value
-- **Bearman:** P5 in China from P10 grid. Haas is overperforming. But Suzuka is harder to recover positions — needs to qualify well.
-- **Gasly:** Alpine on Mercedes PU at a power circuit. P6 in China was legitimate pace.
-- **View:** Both are watch-and-wait plays. Not pre-committing.
+### Race Pace (Teams by mean laptime)
 
-### Verstappen Winner
-- **Expected odds:** +2500
-- **View:** Lottery ticket only. 50% chance the car breaks. If it doesn't, he has the talent to win from anywhere. $0.50 at +2500 = $13 return. Worth the chaos hedge.
-- **Conviction:** 2/10 on probability, but the payout justifies minimum stake.
-
-### Ocon Group 4
-- **Expected odds:** ~+105
-- **View:** Haas is consistently the best of the rest after Alpine. Ocon has been quiet but steady. Group 4 (P13-P16 range) is his natural home. Slight value at plus money.
-- **Conviction:** 5/10.
-
-### Hadjar Winner
-- **Expected odds:** +20000
-- **View:** Pure lottery. Red Bull car can't be trusted, but if Verstappen DNFs and Hadjar has a clean race with Safety Car chaos... $0.50 for a $100 return. Filed under "why not."
-- **Conviction:** 1/10.
-
----
-
-## Suzuka Value Framework
-
-**Key insight:** Suzuka is a qualifying-position track. The real betting edge comes AFTER qualifying. Pre-weekend odds are noise.
-
-**Wait for:**
-1. Friday FP1/FP2 — Is Mercedes still 0.5s+ clear?
-2. Saturday qualifying grid — Who outperforms?
-3. Sunday morning weather check — Rain changes everything at Suzuka
-
-**If rain is forecast:**
-- Mercedes value INCREASES (better car = less risk in transitions)
-- Midfield chaos = potential for Bearman/Gasly podium plays at huge odds
-- Verstappen recovery drives become more viable (wet talent is undeniable)
+| Rank | Team | Gap to Leader | PU |
+|------|------|--------------|-----|
+| 1 | **Mercedes** | — | Mercedes (works) |
+| 2 | **McLaren** | +0.24s/lap | Mercedes (customer) |
+| 3 | **Ferrari** | +0.32s/lap | Ferrari |
+| 4 | **Alpine** | +0.97s/lap | Mercedes (customer) |
+| 5 | **Red Bull** | +1.02s/lap | RBPT (in-house) |
+| 6 | **Haas** | +1.59s/lap | Ferrari (customer) |
+| 7 | **Audi** | +1.71s/lap | Audi |
+| 8 | **Racing Bulls** | +1.74s/lap | RBPT |
+| 9 | **Williams** | +2.13s/lap | Mercedes (customer) |
+| 10 | **Cadillac** | +3.14s/lap | Unknown |
+| 11 | **Aston Martin** | +3.99s/lap | Honda |
 
 ---
 
-## Pre-Race Action Items
+## KEY NARRATIVES FOR BETTING MODEL
 
-- [ ] Check FP1/FP2 pace gaps — has anyone closed on Mercedes?
-- [ ] Check qualifying grid — Bearman/Gasly positioning
-- [ ] Check weather forecast for race day
-- [ ] Review odds post-qualifying before activating sim positions
-- [ ] McLaren status — did both cars make it through practice?
-- [ ] Red Bull PU — any signs of distress in practice?
+### 1. Mercedes PU + ERS Dominance
+
+Mercedes built the best power unit AND energy recovery system for 2026 regulations.
+
+**Super-clipping advantage:** Mercedes can harvest energy at full throttle without losing top speed. At Suzuka 130R:
+- Antonelli: 320+ km/h
+- Ferrari (Leclerc): 305 km/h (15 km/h slower)
+- Honda (Aston Martin): 260 km/h (60 km/h deficit)
+
+**Why it matters for betting:** Teams with better harvest have more strategic flexibility — run longer on tires, respond to safety cars, execute undercuts. This is why Mercedes wins races even when not fastest in qualifying trim.
+
+### 2. Safety Car Volatility
+
+Piastri led from Lap 1 → Safety car (Bearman crash Lap 22) → Antonelli emerged ahead after pit sequence.
+
+**Betting lesson:** Leading on pace ≠ winning. Safety car probability must be factored at high-incident tracks (Suzuka = overtaking difficult → incidents cluster → SC likely).
+
+### 3. Ferrari Straight-Line Power FROZEN
+
+**Vasseur direct quote:** "We have a straight-line deficit, but it is almost frozen until the ADUO."
+- 25hp gap to Mercedes cannot be addressed pre-Miami
+- Ferrari improvement path = software + aero only
+- Energy harvesting algorithm is the improvable area (10-person team, still developing)
+
+### 4. McLaren Competitive Reset
+
+McLaren is now the #2 force (ahead of Ferrari):
+- R3 points: McLaren 28 vs Ferrari 23
+- Piastri ahead of Leclerc, Norris ahead of Hamilton
+- Reached peak PU performance via updated Mercedes ECU maps
+
+### 5. Mercedes Launch Vulnerability
+
+Both Mercedes cars lose positions at the start (confirmed R1, R2, R3).
+- Root cause: Pre-race battery charging protocol (ECU issue, not driver error)
+- McLaren (same PU supplier) solved this — Piastri launched from P3 to lead Lap 1
+- Watch for Mercedes to address this at Miami
+
+---
+
+## MIAMI R6 — BETTING FRAMEWORK
+
+### Ferrari Miami Strategy (Vasseur Framework)
+
+**Everyone brings upgrades at Miami** — not Ferrari-exclusive. One-month April break = collective development.
+
+**Ferrari targets:**
+1. Energy management algorithm optimization (0.1-0.15s potential)
+2. Weekend execution consistency (0.05-0.15s from setup variance reduction)
+3. Aerodynamic package debut
+4. Straight-line power: **LOCKED** (not a Miami variable)
+
+### FP1 Monitoring Triggers
+
+| Signal | Green (Hold) | Yellow (Reduce) | Red (Exit) |
+|--------|-------------|-----------------|------------|
+| Pace improvement vs Suzuka | 0.05-0.10s gain | 0.02-0.05s gain | Flat or regressed |
+| Straight-line speed | Improved (aero working) | Unchanged | Slower (regression) |
+| Driver radio | "Better energy" | Neutral | Same complaints |
+| Tire warm-up | Faster than Suzuka | Same | Slower |
+
+### Miami Betting Approach
+
+1. **Attack Monday/Tuesday** — Execute Ferrari upside before upgrade confirmed
+2. **Monitor FP1** — Algorithm delivery signals
+3. **Execute exit plan** — Green (hold), Yellow (reduce), Red (exit)
+
+### ADUO Wildcard (Season-Long)
+
+- If FIA authorizes ADUO early (R6-R7): Ferrari can develop ICE → odds improve
+- If late (R10+): McLaren and Mercedes extend lead
+- **Cash-out window:** If ADUO authorized mid-season, exit Hamilton/Leclerc underdog positions for profit
 
 ---
 
@@ -85,17 +136,17 @@ These teams are excluded from all betting until further evidence:
 *Newey simulated bets — internal model performance tracking only.
 Not gambling advice. Newey places all simulated bets.*
 
-### R03 Japan — Current Week
+### R03 Japan — SETTLED
 
 | Bet | Odds | Sim Stake | Result | P&L |
 |---|---|---|---|---|
-| Antonelli winner | +300 | $4 | PENDING | — |
-| Leclerc podium | -125 | $3 | PENDING | — |
-| Hamilton podium | -125 | $3 | PENDING | — |
-| Verstappen winner | +2500 | $0.50 | PENDING | — |
-| Ocon Group 4 | +105 | $1 | PENDING | — |
-| Hadjar winner | +20000 | $0.50 | PENDING | — |
-| **Week total** | | **$12** | PENDING | — |
+| Antonelli winner | +300 | $4 | ✅ WON | +$12.00 |
+| Leclerc podium | -125 | $3 | ✅ WON (P3) | +$2.40 |
+| Hamilton podium | -125 | $3 | ❌ LOST (P6) | -$3.00 |
+| Verstappen winner | +2500 | $0.50 | ❌ LOST (P8) | -$0.50 |
+| Ocon Group 4 | +105 | $1 | ✅ WON (P10) | +$1.05 |
+| Hadjar winner | +20000 | $0.50 | ❌ LOST (P12) | -$0.50 |
+| **Week total** | | **$12** | **3W-3L** | **+$11.45** |
 
 ### Season Summary
 
@@ -103,12 +154,36 @@ Not gambling advice. Newey places all simulated bets.*
 |---|---|---|---|---|
 | R01 Australia | — | — | — | — |
 | R02 China | — | — | — | — |
-| R03 Japan | $12 | PENDING | — | — |
-| **Season** | **$12** | **PENDING** | **—** | **—** |
+| R03 Japan | $12.00 | $23.45 | +$11.45 | +$11.45 |
+| **Season** | **$12.00** | **$23.45** | **+$11.45** | **+$11.45** |
 
-Week P&L: PENDING
-Season P&L: — (R01 + R02 data pending)
+**Week P&L: +$11.45 (+95.4% ROI)**
+**Season P&L: +$11.45**
+
+### Post-Race Notes
+- Antonelli winner at +300 was the edge call — 2 wins in 3 races, market still underpricing him
+- Hamilton podium miss was position-driven (overtake mode battery cost + Norris battle), not pace
+- Ocon Group 4 value confirmed — Haas consistently best-of-rest after Alpine
+- Verstappen/Hadjar lottery tickets expired as expected (Red Bull PU disadvantage structural)
+
+---
+
+## SEASON BETTING RULES (Locked)
+
+### ERS-Adjusted Betting
+- **Never bet Aston Martin for points** — Honda harvest ceiling is structural
+- **Mercedes WDC odds justified** — super-clipping advantage = strategic flexibility
+- **McLaren improvement is real** — Mercedes-level energy management (ECU updated)
+- **Ferrari top speed deficit is ERS/harvest related** — not fixable quickly
+- **Red Bull energy banking** — Verstappen may have late-race pace from poor grid (watch for value)
+- **Mercedes launch vulnerability** — continues until ECU pre-race charging fixed
+
+### Qualifying vs Race Gap Rule
+- Mercedes 0.5-0.6s faster in qualifying, but race gap is 0.24-0.32s
+- Do NOT use qualifying times to set race expectations
+- Three teams within 0.3s race pace = competitive racing
 
 ---
 
 *Internal analysis only. Not for public distribution.*
+*Updated: 2026-03-29 20:00 EDT — Post-race settled*
